@@ -187,32 +187,32 @@ st.markdown('''
 st.markdown('''
     \
    
-   To conclude we must draw a top level (an estimate) defination for each of the cancellation reason:
-   1. <span class="higlighted">Not using anymore</span> : This is a generic case where in the action (opting out) can be cause by any factor except the reasons on other points. Example of cases where <span class="higlighted">Not using anymore</span> can be triggered by:
-       * <u>The product introduced the feature which the customer was using on buffer</u>. Example: Twitter launced advanced analytics tools which made Buffers analytics tool an unused tool to them.
-       * <u>The tools that they were already using offered them the tools which are present in buffer</u>. Example someone was using notion to plan thier content however notion released their public api hence they were able to use it to schedule those contents.
+   To conclude we must draw a top-level (an estimate) definition for each of the cancellation reasons:
+   1. <span class="higlighted">Not using anymore</span>: This is a generic case wherein the action (opting-out) can be caused by any factor except the reasons on other points. Examples of cases where <span class="higlighted">Not using anymore</span> can be triggered by:
+       * <u>The product introduced the feature which the customer was using on Buffer</u>. Example: Twitter launched advanced analytics tools which made Buffers analytics tool an unused tool to them.
+       * <u>The tools that they were already using offered them the tools which are present in Buffer</u>. For example someone was using notion to plan their content however notion released their public API hence they were able to use it to schedule those contents.
    2. <span class="higlighted">Extenuating circumstances</span>: This cannot be clearly defined however, depending on the circumstances there is a chance of retaining them because this necessarily doesn't mean they were unhappy with the product. It might come from the support they got or setting up a wrong expectation/success metric with the product.
-   3. <span class="higlighted">Others</span>: This is the most generic response. however since there were other options present, we can clearly rule out the fact that the churn came from product related issues (missing features/bugs), to a large extent support related issues, price points, usage/usability issues. A few factors that can be considered here can be:
-       * Customer ran out of business.
-       * The product was not used much. Example they were in a business where social media presence didn't matter much.
-       * Buffer was useful and priced properly, however the customer realized that ROI wasn't that great.
+   3. <span class="higlighted">Others</span>: This is the most generic response. however since there were other options present, we can clearly rule out the fact that the churn came from product related issues (missing features/bugs), to a large extent support related issues, price points and, usage/usability issues. A few factors that can be considered here can be:
+       * The customer ran out of business.
+       * The product was not used much. For example, they were in a business where social media presence didn't matter much.
+       * Buffer was useful and priced properly, however, the customer realized that ROI wasn't that great.
        * They moved to a competitor which provided them a generous trial period hence they churned and thought of giving them a shot.
-      This list cann go long but we would focus on the event which likely caused churn because some issue on our side.
-   4. <span class="higlighted">Too expensive</span>: Something which is a need can feel expensive only when cheaper options are available. Need to do a competitor analysis to establish a correalation, but surely this comes from companies which want to compete on price points.
-   5. <span class="higlighted">Missing features</span>: This is coming from the fact that some features were so critical to some (a small subset) customers that they churned out. However this can also because of average price per feature. Not all features can be used by different subsets of customers with same degree of importance.
-   6. <span class="higlighted">Missing features</span>: Not all customers can have tolerence to small glitches in software operations or the time taken to fix them. However doing a critical analysis of bugs can surely help.
+      This list can go long but we would focus on the event which likely caused churn because of some issue on our side.
+   4. <span class="higlighted">Too expensive</span>: Something which is a need can feel expensive only when cheaper options are available. Need to do a competitor analysis to establish a correlation, but surely this comes from companies which want to compete on price points.
+   5. <span class="higlighted">Missing features</span>: This is coming from the fact that some features were so critical to some (a small subset) customers that they churned out. However, this can also be because of the average price per feature. Not all features can be used by different subsets of customers with the same degree of importance.
+   6. <span class="higlighted">Missing features</span>: Not all customers can have tolerance for small glitches in software operations or the time taken to fix them. However, doing a critical analysis of bugs can surely help.
 
    Analytically,
-   1. The highest churn with respect to plan offering was: <span class="higlighted">Pro8 V1 -  monthly</span> (more than 50%), followed by same plan billed yearly.
-   2. The highest churn with respect to customer reasoning was: <span class="higlighted">Not using anynmore</span> (close to 46%) followed by extenuating circumstances (~ 16%).
+   1. The highest churn with respect to plan offering was: <span class="higlighted">Pro8 V1 -  monthly</span> (more than 50%), followed by the same plan billed yearly.
+   2. The highest churn with respect to customer reasoning was: <span class="higlighted">Not using anymore</span> (close to 46%) followed by extenuating circumstances (~ 16%).
    3. A total of 745 customers had two (or more) churn entries. This was indicating they purchased the plan again. For a few customers there were three entries this indicated that customers came back thrice. This can indicate a few things:
        * There is a very strong product market fit and the product is bringing value.
        * The brand helps to sell the product because of marketing or word of mouth however it's not able to keep up with the expectations.
-       * Customers are rationing their purchase. They get the product only and only when they need and opt out when the expectation is meet.
-       * There can be an involuntary churn triggered by a credit card decline or accidentally user declined the payment.
+       * Customers are rationing their purchases. They get the product only and only when they need it and opt-out when the expectation is met.
+       * There can be an involuntary churn triggered by a credit card decline or accidentally a user declined the payment.
    4. Out of those customers who churned out second/third time <span class="higlighted">Not using anymore</span> remains at the top.
-   5. The correlation between the "churn reason" and "plan churned" is largely linear (Pro8 v1 - Monthly vs. not-using-anymore is at the top with 535 entries similarly for Pro8 v1 - yearly vs Not using anymore is at second with 212 entries)
-   6. The trend went a bit off to the second time customers as we saw the plan offering majorly impacted was <span class="higlighted">Buffer Analyze - Full Price 10 Social Channels</span> because of the reason <span class="higlighted">not-using-anymore</span>, <span class="higlighted">where as Pro8 v1 - Monthly</span> was majorly churned because of being 'too expensive'.
+   5. The correlation between the "churn reason" and "plan churned" is largely linear (Pro8 v1 - Monthly vs. not-using-anymore is at the top with 535 entries similarly, Pro8 v1 - yearly vs Not using anymore is at second with 212 entries)
+   6. The trend went a bit off to the second time customers as we saw the plan offering majorly impacted was <span class="higlighted">Buffer Analyze - Full Price 10 Social Channels</span> because of the reason <span class="higlighted">not-using-anymore</span>, <span class="higlighted">whereas Pro8 v1 - Monthly</span> was majorly churned because of being 'too expensive'.
 ''', unsafe_allow_html = True)
 
 st.markdown('''
@@ -228,12 +228,12 @@ st.markdown('''
 ''', unsafe_allow_html = True)
 
 st.markdown('''
-    It is difficult to reach to a solid conclusion without having the life time value of customer of the days to churn number.
-    However by analysing the current data that we have right now is:
-    1. Need to focus on user retention by analysing the needs of the large amounts of customers signing up again. (aprox 745). These customer majorly left because of not using and price points. 
-    2. Introducing more pricing tiers and pricing based on features. Especially for small businesses since they constitute a very large chunk, granularity in price can be boon for them and can give competitive advantage.
-    3. Product on higher level looks good since the percentage of people churning because of bugs and missing features are relatively less (5% and 7%). Focusing on the current roadmap and especially on high ROI features can be more rewarding campared to focusing on a features demanded by a few customers.
-    4. Need to do a close feature by price competitor analysis to make sure if we are up to datte and addressing the current demands of the customers.
-    5. Studying churn behaviour more closely, may be by conducting interviews post churn or adding more options to the opt out form, add an option for customer to write their greviances if they choose to select <span class="higlighted">other</span> as option in the optout form to have a better cancellation insights.
+    It is difficult to reach a solid conclusion without having the lifetime value of customers of the days to churn number.
+    However, by analysing the current data that we have right now is:
+    1. Need to focus on user retention by analysing the needs of the large amounts of customers signing up again. (approx 745). These customers majorly left because of not using and price points. 
+    2. Introducing more pricing tiers and pricing based on features. Especially for small businesses since they constitute a very large chunk, granularity in price can be a boon for them and can give us a competitive advantage.
+    3. Product on higher-level looks good since the percentage of people churning because of bugs and missing features are relatively less (5% and 7%). Focusing on the current roadmap and especially on high ROI features can be more rewarding compared to focusing on features demanded by a few customers.
+    4. Need to do a close feature by price competitor analysis to make sure if we are up to date and addressing the current demands of the customers.
+    5. Studying churn behaviour more closely maybe by conducting interviews post churn or adding more options to the opt-out form, add an option for the customer to write their grievances if they choose to select <span class="higlighted">other</span> as an option in the opt-out form to have a better cancellation insight.
 
 ''', unsafe_allow_html = True)
