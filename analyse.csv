@@ -1,0 +1,2236 @@
+Customer ID,Churn Date,Plan Name,Plan Amount ($),Churn Reason
+5c000bdd62d5bcb1d033b15f,Sep 10 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5c374d855542492009f39fc2,Aug 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5c374d885542492009f3a30e,Oct 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5c374d895542492009f3a485,Jul 20 '21,Small Business v2 - Monthly,99,others
+5c374d8f5542492009f3acf0,Nov 05 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5c374d925542492009f3b01e,Aug 05 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5c374d975542492009f3b779,Sep 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5c374d9c5542492009f3bda3,Sep 06 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5c374d9f5542492009f3c29a,Sep 12 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5c374da65542492009f3cbc7,Aug 22 '21,Pro8 v1 - Monthly,15,others
+5c374daa5542492009f3d144,Sep 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5c374db85542492009f3e4c8,Dec 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5c374dbf5542492009f3eeb7,Aug 29 '21,Pro8 v1 - Monthly,15,others
+5c374dc45542492009f3f452,Jul 21 '21,Pro8 v1 - Monthly,15,missing-features
+5c374dc65542492009f3f789,Aug 24 '21,Pro8 v1 - Monthly,15,bugs
+5c374dd55542492009f40bc4,Jul 24 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5c374dd75542492009f40e2b,Jul 02 '21,Pro8 v1 - Monthly,15,too-expensive
+5c374dd85542492009f40f99,Sep 07 '21,Premium Business v1 - Yearly,663,too-expensive
+5c7fe31b3425707f05a612d1,Aug 21 '21,Pro8 v1 - Monthly,15,too-expensive
+5c8de6297214d9738e4dcd27,Aug 17 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d1ed30113038c6fadad6,Sep 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d1f030113038c6fafb2a,Sep 14 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d1f330113038c6fb11b3,Dec 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d1f61d99bc38dbee16e2,Sep 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d1f730113038c6fb242e,Oct 07 '21,Pro8 v1 - Monthly,15,others
+5ca1d1f930113038c6fb2d14,Oct 10 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d1fa30113038c6fb2f17,Oct 28 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d1fd1d99bc38dbee2c28,Nov 07 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d20269ec79395e76377a,Oct 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d20369ec79395e763a32,Dec 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d20530113038c6fb4706,Sep 03 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d2137ace10391ade8b77,Sep 11 '21,Premium Business v1 - Monthly,65,too-expensive
+5ca1d21869ec79395e765ce1,Dec 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d21b30113038c6fb6de7,Nov 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d21b905a7a39498311ce,Aug 22 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d21c30113038c6fb7456,Sep 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d21dfd16da398241c551,Nov 12 '21,Pro8 v1 - Yearly,144,others
+5ca1d2251d99bc38dbee76cc,Dec 12 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d22569ec79395e766f3b,Jul 11 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d226905a7a394983264d,Sep 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d227fd16da398241d906,Oct 19 '21,Pro8 v1 - Monthly,15,others
+5ca1d22a69ec79395e7679a9,Nov 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d22d1d99bc38dbee7f59,Sep 19 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d235fd16da398241efbb,Aug 19 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d2371d99bc38dbee9378,Jul 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d23c69ec79395e7699a9,Oct 14 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d23c7ace10391aded5e4,Jul 19 '21,Pro8 v1 - Monthly,15,others
+5ca1d23c905a7a3949834d84,Sep 16 '21,Premium Business v1 - Monthly,65,others
+5ca1d24169ec79395e76a009,Oct 26 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d241fd16da398242063d,Aug 07 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d24569ec79395e76aab0,Nov 27 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d24730113038c6fbc221,Oct 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2487ace10391adee69d,Aug 11 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d24e905a7a3949836db2,Aug 18 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d25383663e38f38e3abc,Sep 28 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d2551d99bc38dbeecccd,Nov 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2557ace10391adefdab,Dec 09 '21,Pro8 v1 - Monthly,15,others
+5ca1d25783663e38f38e42f1,Aug 19 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d25969ec79395e76cc6a,Oct 14 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d25b905a7a3949837fba,Dec 14 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d260fd16da3982423df1,Jul 24 '21,Small Business v2 - Monthly,99,others
+5ca1d26530113038c6fbf8df,Aug 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d269905a7a3949839916,Jul 24 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d26d30113038c6fc0302,Sep 16 '21,Premium Business v1 - Yearly,663,not-using-anymore
+5ca1d26d83663e38f38e6fb7,Sep 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d26f1d99bc38dbeef604,Dec 05 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5ca1d26f1d99bc38dbeefa3d,Sep 05 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d27130113038c6fc0963,Sep 11 '21,Pro8 v1 - Monthly,15,others
+5ca1d27130113038c6fc0963,Sep 28 '21,Essentials + Team Pack,24,others
+5ca1d27183663e38f38e71a4,Oct 14 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d27183663e38f38e72fe,Oct 08 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d27530113038c6fc10d1,Aug 12 '21,Pro8 v1 - Monthly,15,others
+5ca1d27583663e38f38e78fb,Jul 20 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d27930113038c6fc18d2,Sep 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d27930113038c6fc1ab2,Sep 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d279fd16da39824265c1,Jul 13 '21,Pro8 v1 - Yearly,144,others
+5ca1d27e30113038c6fc24fb,Oct 20 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+5ca1d28230113038c6fc28b0,Sep 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d28569ec79395e771d0c,Aug 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2891d99bc38dbef2918,Jul 13 '21,Small Business v2 - Monthly,99,too-expensive
+5ca1d289fd16da3982428575,Sep 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d289fd16da39824289dd,Oct 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d28a30113038c6fc3965,Aug 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d28b30113038c6fc3db2,Jul 19 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d28e905a7a394983db76,Sep 22 '21,Premium Business v1 - Yearly,663,too-expensive
+5ca1d29c30113038c6fc58f8,Jul 28 '21,Small Business v2 - Monthly,99,bugs
+5ca1d29d83663e38f38ec43b,Aug 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d29e7ace10391adf8944,Sep 16 '21,Buffer Analyze - Full Price 10 Social Channels,50,bugs
+5ca1d2a030113038c6fc657b,Oct 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2a9905a7a39498410a0,Oct 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2ac69ec79395e77619c,Aug 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2ac69ec79395e7763a2,Sep 04 '21,Pro8 v1 - Monthly,15,others
+5ca1d2ad30113038c6fc7c04,Oct 26 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d2ad905a7a394984180d,Sep 27 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d2b230113038c6fc8535,Sep 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2b41d99bc38dbef7627,Aug 03 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d2b81d99bc38dbef7a16,Sep 11 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d2c283663e38f38f0678,Sep 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d2c569ec79395e779022,Nov 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d2c730113038c6fcab54,Sep 12 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d2cf30113038c6fcb721,Aug 28 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d2d61d99bc38dbefb078,Aug 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2d669ec79395e77ae78,Aug 27 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d2db69ec79395e77baa1,Aug 01 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d2db69ec79395e77baa1,Nov 17 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d2e61d99bc38dbefd120,Jul 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2e769ec79395e77d1c5,Nov 21 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5ca1d2e7905a7a3949847e79,Sep 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d2eb83663e38f38f52dd,Dec 14 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d2eb83663e38f38f52dd,Jul 13 '21,Buffer Analyze - Full Price 10 Social Channels Annual,480,not-using-anymore
+5ca1d2f230113038c6fcf1ec,Sep 07 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d2f67ace10391ae0295b,Aug 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2f9905a7a394984a3b9,Oct 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d2fefd16da3982436439,Aug 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3067ace10391ae04578,Aug 16 '21,Large Business v2 - Monthly,399,others
+5ca1d3067ace10391ae04698,Sep 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d30683663e38f38f84e5,Jul 24 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d30969ec79395e780e1f,Oct 04 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d30afd16da3982437763,Jul 14 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d30d7ace10391ae054a9,Aug 09 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d30e905a7a394984ca08,Jul 24 '21,Pro8 v1 - Monthly,15,others
+5ca1d31283663e38f38f9b8b,Nov 13 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3197ace10391ae07257,Sep 19 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d31a83663e38f38fab14,Sep 22 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d31a83663e38f38fab1e,Dec 08 '21,Pro8 v1 - Yearly,144,others
+5ca1d32930113038c6fd5769,Oct 24 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d32c30113038c6fd5cb1,Sep 16 '21,Pro8 v1 - Monthly,15,others
+5ca1d32d69ec79395e784f54,Dec 01 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d32d69ec79395e784f54,Sep 01 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d33169ec79395e785c1b,Aug 31 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d3367ace10391ae0a49f,Sep 02 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d33a905a7a3949851e2c,Nov 30 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d34130113038c6fd8533,Nov 08 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5ca1d34183663e38f38fe81e,Dec 22 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d3427ace10391ae0c02d,Sep 23 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d34a1d99bc38dbf07d8b,Jul 22 '21,Pro8 v1 - Monthly,15,others
+5ca1d34bfd16da398243f896,Aug 03 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d34c30113038c6fd95e1,Sep 14 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d34d30113038c6fd9c93,Jul 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d34e1d99bc38dbf08378,Aug 16 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d34e83663e38f390008a,Sep 30 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d351905a7a3949854552,Oct 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d35783663e38f390159d,Aug 03 '21,Premium Business v1 - Monthly,65,missing-features
+5ca1d357fd16da3982441193,Jul 23 '21,Pro8 v1 - Yearly,144,bugs
+5ca1d35a7ace10391ae0e88c,Oct 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d36183663e38f39025bf,Jul 11 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d3691d99bc38dbf0bd0d,Aug 08 '21,Pro8 v1 - Monthly,15,others
+5ca1d36c7ace10391ae1045c,Aug 06 '21,Premium Business v1 - Yearly,663,extenuating-circumstances
+5ca1d36e1d99bc38dbf0c72b,Aug 01 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d36f30113038c6fddec7,Sep 26 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d373905a7a3949857693,Jul 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d37730113038c6fded24,Sep 06 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d37830113038c6fdef85,Sep 28 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d378905a7a3949857e5a,Jul 15 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d378fd16da3982444568,Aug 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d378fd16da3982444568,Aug 19 '21,Essentials + Team Pack,72,not-using-anymore
+5ca1d378fd16da3982444780,Aug 06 '21,Small Business v2 - Monthly,99,missing-features
+5ca1d37c30113038c6fdf868,Aug 04 '21,Small Business v2 - Monthly,99,others
+5ca1d37c30113038c6fdfaa4,Aug 06 '21,Premium Business v1 - Monthly,65,others
+5ca1d3861d99bc38dbf0f241,Sep 13 '21,Pro8 v1 - Monthly,15,others
+5ca1d38669ec79395e78f7e4,Oct 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d386fd16da3982445d73,Nov 24 '21,Pro8 v1 - Monthly,15,others
+5ca1d387fd16da3982445ff7,Sep 12 '21,Small Business v2 - Monthly,99,others
+5ca1d38930113038c6fe0e93,Aug 22 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d3931d99bc38dbf1088d,Oct 24 '21,Small Business v2 - Monthly,99,others
+5ca1d393fd16da39824476cc,Sep 01 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d39530113038c6fe270f,Oct 22 '21,Pro8 v1 - Yearly,144,others
+5ca1d3967ace10391ae14e0d,Oct 12 '21,Pro8 v1 - Yearly,144,others
+5ca1d39783663e38f3909286,Aug 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d39b69ec79395e791ea4,Sep 30 '21,Medium Business v2 - Monthly,199,not-using-anymore
+5ca1d39b69ec79395e79205a,Sep 28 '21,Small Business v2 - Monthly,99,others
+5ca1d39b905a7a394985be8f,Sep 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d39bfd16da3982448422,Aug 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3a01d99bc38dbf11e94,Aug 01 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d3ab7ace10391ae175a2,Oct 21 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d3b11d99bc38dbf13fcc,Sep 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3b37ace10391ae184fb,Aug 19 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5ca1d3b869ec79395e7951bd,Dec 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3bd905a7a394985fba4,Dec 20 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d3c330113038c6fe7958,Oct 05 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d3c61d99bc38dbf1699d,Dec 30 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d3cafd16da398244d6fa,Aug 23 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d3cd69ec79395e7976f8,Jul 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3cd69ec79395e797c55,Sep 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3ce905a7a3949861b97,Jul 19 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d3d27ace10391ae1bc3c,Jul 24 '21,Small Business v2 - Monthly,99,too-expensive
+5ca1d3d3fd16da398244ea04,Nov 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3d67ace10391ae1c858,Aug 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3dc30113038c6fea74e,Jul 13 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3e27ace10391ae1db6c,Aug 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3e930113038c6fec459,Dec 31 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d3eb7ace10391ae1ef2d,Aug 10 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d3ebfd16da3982451874,Sep 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3ed1d99bc38dbf1b258,Sep 21 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d3ee30113038c6fec6ed,Sep 25 '21,Small Business v2 - Yearly,">= 1,000",too-expensive
+5ca1d3f183663e38f391317a,Aug 18 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d3f269ec79395e79c227,Aug 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d3f3fd16da3982452718,Nov 02 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d3f830113038c6fedb62,Dec 08 '21,Pro8 v1 - Yearly,144,others
+5ca1d40030113038c6fee6b2,Jul 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+5ca1d400fd16da3982453d07,Sep 03 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d40130113038c6fee7c0,Oct 07 '21,Pro8 v1 - Monthly,15,others
+5ca1d40769ec79395e79ea6a,Jul 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4181d99bc38dbf1fca2,Sep 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d41c69ec79395e7a0df2,Jul 01 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d41d7ace10391ae24b52,Jul 24 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d41e30113038c6ff21b3,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d41e905a7a394986a6d4,Aug 23 '21,Essentials + Team Pack,840,not-using-anymore
+5ca1d41e905a7a394986a6d4,Jul 05 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d42083663e38f3918bec,Sep 02 '21,Pro8 v1 - Monthly,15,others
+5ca1d422905a7a394986aee3,Jul 22 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d42330113038c6ff2346,Sep 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d42330113038c6ff26d6,Jul 24 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d42883663e38f3919a04,Sep 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d42afd16da39824588de,Aug 04 '21,Premium Business v1 - Monthly,65,bugs
+5ca1d42b30113038c6ff33cf,Aug 05 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d42efd16da39824592c4,Aug 28 '21,Premium Business v1 - Monthly,65,too-expensive
+5ca1d43330113038c6ff4386,Oct 11 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d43369ec79395e7a3e04,Dec 25 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4371d99bc38dbf22d9c,Oct 12 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d43769ec79395e7a43bf,Oct 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d43a7ace10391ae27f1a,Sep 14 '21,Premium Business v1 - Monthly,65,others
+5ca1d43b30113038c6ff5169,Aug 26 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d443905a7a394986efa8,Nov 02 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d44730113038c6ff6916,Jul 06 '21,Small Business v2 - Yearly,">= 1,000",too-expensive
+5ca1d448905a7a394986f7ba,Oct 01 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+5ca1d45430113038c6ff82f0,Jul 11 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d4561d99bc38dbf2647b,Aug 15 '21,Pro8 v1 - Monthly,15,others
+5ca1d4577ace10391ae2baaf,Sep 21 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d457fd16da398245e363,Sep 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d45830113038c6ff8bff,Aug 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d45830113038c6ff8cc9,Jul 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d45b83663e38f391f984,Sep 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d461905a7a39498725e6,Jul 17 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d4671d99bc38dbf27f1e,Dec 18 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d4671d99bc38dbf27fe0,Nov 02 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d4671d99bc38dbf27fe0,Nov 02 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d46930113038c6ffa962,Aug 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d46a1d99bc38dbf28631,Aug 05 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d46d905a7a394987392b,Sep 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d46e905a7a3949873cda,Aug 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d46e905a7a3949873cda,Jul 01 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d470fd16da3982460d3a,Sep 15 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d47483663e38f3921ee9,Oct 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d47530113038c6ffbd8d,Aug 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4781d99bc38dbf2a3ea,Nov 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d47a905a7a3949875072,Sep 24 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d47c1d99bc38dbf2a5f7,Oct 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d47cfd16da398246249d,Aug 30 '21,Small Business v2 - Yearly,">= 1,000",missing-features
+5ca1d47dfd16da3982462b16,Jul 11 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d47e30113038c6ffd3fe,Sep 08 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d48330113038c6ffdbd2,Oct 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4847ace10391ae30d99,Nov 11 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d4857ace10391ae30ec9,Aug 27 '21,Small Business v2 - Monthly,99,too-expensive
+5ca1d48b30113038c6ffe47b,Aug 26 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d48b905a7a394987731a,Aug 03 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d48c1d99bc38dbf2c3b3,Aug 20 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d49030113038c6fff3e3,Aug 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d49183663e38f39252da,Aug 23 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d4921d99bc38dbf2ceec,Oct 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d49830113038c6000115,Jul 02 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d49830113038c6ffff48,Nov 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d49c905a7a39498790ad,Nov 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d49e83663e38f39269a6,Sep 10 '21,Pro8 v1 - Monthly,15,others
+5ca1d4a81d99bc38dbf2f403,Dec 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4a8905a7a394987a32d,Nov 18 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4ad30113038c600259a,Nov 14 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4af69ec79395e7b24f2,Aug 23 '21,Pro8 v1 - Monthly,15,others
+5ca1d4af69ec79395e7b288b,Sep 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4b369ec79395e7b2fc0,Oct 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4b51d99bc38dbf30e79,Sep 19 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4b930113038c6003ce6,Aug 01 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4bcfd16da398246a027,Jul 30 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d4c87ace10391ae38712,Aug 03 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4ca1d99bc38dbf333f4,Sep 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4cd30113038c600612f,Nov 06 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d4d1905a7a394987ebb3,Sep 24 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4d269ec79395e7b6ccd,Aug 11 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d4d269ec79395e7b6ccd,Aug 27 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d4d530113038c60070e0,Oct 15 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4d530113038c6007344,Oct 02 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d4d930113038c6007b26,Aug 29 '21,Pro8 v1 - Monthly,15,others
+5ca1d4da1d99bc38dbf35044,Oct 14 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d4dcfd16da398246d48b,Oct 27 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d4dd30113038c600821f,Aug 09 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4e3fd16da398246e089,Oct 20 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d4e9905a7a39498815ed,Sep 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4e9905a7a3949881c56,Aug 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4ea7ace10391ae3c9c4,Oct 24 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d4ed69ec79395e7ba5f8,Oct 15 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d4ed69ec79395e7ba5f8,Oct 29 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+5ca1d4f0905a7a3949882785,Oct 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d4f41d99bc38dbf3882a,Sep 24 '21,Pro8 v1 - Yearly,144,others
+5ca1d4f97ace10391ae3eafb,Sep 06 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5ca1d4ff83663e38f3932821,Aug 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d50269ec79395e7bd5b7,Sep 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d50669ec79395e7bdbbf,Jul 01 '21,Pro8 v1 - Yearly,144,others
+5ca1d5081d99bc38dbf3b470,Aug 20 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d50a7ace10391ae40c2e,Sep 03 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d5117ace10391ae41ab2,Oct 10 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d5151d99bc38dbf3cd7d,Oct 22 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d5167ace10391ae426f9,Aug 09 '21,Pro8 v1 - Yearly,144,bugs
+5ca1d51dfd16da3982475e72,Dec 24 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d51f905a7a3949888faa,Jul 07 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d5207ace10391ae43bfb,Jul 28 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d5211d99bc38dbf3e4b7,Oct 30 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d5247ace10391ae447cd,Oct 01 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+5ca1d52569ec79395e7c18a5,Sep 03 '21,Medium Business v2 - Monthly,199,not-using-anymore
+5ca1d5261d99bc38dbf3f3d5,Aug 25 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d5291d99bc38dbf3f772,Dec 15 '21,Premium Business v1 - Monthly,65,too-expensive
+5ca1d5361d99bc38dbf41047,Nov 23 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d53b83663e38f393a3f4,Nov 10 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5ca1d53b83663e38f393a5ba,Sep 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d53d1d99bc38dbf41ca7,Oct 13 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d53f83663e38f393ad3d,Aug 07 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d5411d99bc38dbf423e7,Sep 11 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d54383663e38f393b4d4,Oct 26 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d547fd16da398247b2d2,Jul 16 '21,Pro8 v1 - Yearly,144,others
+5ca1d5491d99bc38dbf4364d,Jul 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d54d7ace10391ae49e34,Nov 21 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d54f7ace10391ae4a3a2,Nov 30 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d55183663e38f393d35c,Dec 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d551905a7a394988f54a,Oct 20 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d551905a7a394988f5da,Aug 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d551fd16da398247cced,Oct 25 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d551fd16da398247ce5a,Oct 18 '21,Pro8 v1 - Yearly,144,others
+5ca1d55483663e38f393dd4a,Dec 19 '21,Pro8 v1 - Monthly,15,others
+5ca1d5551d99bc38dbf444e4,Jul 07 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d55569ec79395e7c8446,Dec 24 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d5591d99bc38dbf44af9,Nov 06 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d55b905a7a394989109b,Sep 05 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d55d7ace10391ae4be7b,Jul 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d56683663e38f393feb2,Nov 16 '21,Pro8 v1 - Yearly,144,bugs
+5ca1d570905a7a3949893e74,Nov 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d57769ec79395e7ccaee,Aug 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d57883663e38f3942670,Sep 08 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d57a7ace10391ae4fd21,Jul 04 '21,Buffer Analyze - Full Price 10 Social Channels,50,bugs
+5ca1d58083663e38f3943a1b,Oct 18 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d580905a7a3949895eba,Aug 24 '21,Small Business v2 - Monthly,99,too-expensive
+5ca1d58169ec79395e7cdfe7,Dec 25 '21,Small Business v2 - Monthly,99,bugs
+5ca1d58383663e38f3943d61,Oct 22 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d58569ec79395e7cebd9,Dec 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d585fd16da3982483b31,Sep 05 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d5871d99bc38dbf4b262,Jul 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d5881d99bc38dbf4b5df,Oct 06 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d5887ace10391ae51d9c,Aug 18 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d58a905a7a39498971d0,Jul 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d59083663e38f3945799,Oct 24 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d59083663e38f39459f1,Sep 26 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d591905a7a394989860e,Sep 20 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d59a69ec79395e7d19ee,Nov 11 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d5a183663e38f3947831,Aug 24 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d5a183663e38f3947831,Jul 09 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+5ca1d5a4fd16da3982488433,Oct 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d5b01d99bc38dbf50656,Oct 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d5b1905a7a394989ce6d,Aug 22 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+5ca1d5b1905a7a394989ce6d,Sep 30 '21,Small Business v2 - Monthly,99,missing-features
+5ca1d5b81d99bc38dbf51c03,Oct 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d5b969ec79395e7d5c6d,Jul 08 '21,Pro8 v1 - Yearly,144,others
+5ca1d5ba83663e38f394abd3,Nov 03 '21,Pro8 v1 - Monthly,15,others
+5ca1d5bf905a7a394989e81a,Sep 01 '21,Premium Business v1 - Yearly,663,not-using-anymore
+5ca1d5bf905a7a394989ec26,Sep 29 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d5c1fd16da398248bf5e,Nov 21 '21,Small Business v2 - Monthly,99,others
+5ca1d5c6905a7a394989f73f,Nov 07 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d5c769ec79395e7d807d,Aug 30 '21,Large Business v2 - Yearly,">= 1,000",bugs
+5ca1d5c8fd16da398248cd38,Dec 29 '21,Pro8 v1 - Monthly,15,others
+5ca1d5ca905a7a39498a0132,Sep 28 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d5cd905a7a39498a0b62,Sep 21 '21,Pro8 v1 - Monthly,15,others
+5ca1d5ce1d99bc38dbf5471a,Oct 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d5db7ace10391ae5d53d,Nov 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d5df83663e38f394f92e,Oct 04 '21,Medium Business v2 - Monthly,199,not-using-anymore
+5ca1d5e069ec79395e7db99e,Oct 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d5e283663e38f3950321,Sep 15 '21,Pro8 v1 - Yearly,144,bugs
+5ca1d5e4fd16da3982490f77,Nov 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d5e7fd16da3982491711,Oct 01 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d5e87ace10391ae5f113,Oct 14 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d5e87ace10391ae5f2bb,Aug 14 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d5ebfd16da3982491868,Aug 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d5ed1d99bc38dbf58c1a,Aug 27 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,bugs
+5ca1d5ed1d99bc38dbf58c1a,Nov 06 '21,Small Business v2 - Yearly,">= 1,000",bugs
+5ca1d5f07ace10391ae5ffa5,Aug 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d5f083663e38f3951fd7,Nov 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d5f183663e38f3952360,Oct 22 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d5f51d99bc38dbf59b90,Aug 04 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d5f883663e38f3953519,Jul 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d5fc1d99bc38dbf5b0d6,Jul 15 '21,Pro8 v1 - Monthly,15,others
+5ca1d5fd7ace10391ae614f0,Sep 23 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d6091d99bc38dbf5cc1a,Nov 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d6091d99bc38dbf5ce2f,Aug 16 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d60afd16da3982495e33,Nov 25 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d61383663e38f395738a,Oct 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6177ace10391ae64d59,Aug 22 '21,Premium Business v1 - Monthly,65,too-expensive
+5ca1d61a7ace10391ae6557d,Jul 06 '21,Pro8 v1 - Yearly,144,others
+5ca1d61a7ace10391ae656e0,Nov 09 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d61a83663e38f3957db8,Dec 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d61d1d99bc38dbf5f6e5,Nov 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d62269ec79395e7e4768,Jul 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d624905a7a39498ab304,Oct 15 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d62669ec79395e7e5114,Sep 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d627fd16da3982499a1e,Sep 12 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d62a7ace10391ae67859,Sep 14 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d6321d99bc38dbf624e9,Sep 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d632905a7a39498ad688,Aug 06 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d6351d99bc38dbf629e1,Jul 17 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d63a905a7a39498ae807,Aug 28 '21,Pro8 v1 - Monthly,15,others
+5ca1d63c83663e38f395c9b6,Nov 23 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d642905a7a39498af604,Dec 01 '21,Pro8 v1 - Yearly,144,others
+5ca1d642905a7a39498af638,Jul 29 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d642905a7a39498af6c3,Nov 02 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d649905a7a39498b00cb,Aug 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6557ace10391ae6d1b0,Sep 14 '21,Pro8 v1 - Monthly,15,others
+5ca1d6581d99bc38dbf6696f,Oct 10 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d65869ec79395e7ebd4a,Aug 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d65b1d99bc38dbf66cdd,Aug 06 '21,Pro8 v1 - Yearly,144,others
+5ca1d65b83663e38f3960cc0,Aug 29 '21,Large Business v2 - Monthly,399,extenuating-circumstances
+5ca1d65d905a7a39498b2fcf,Sep 28 '21,Pro8 v1 - Yearly,144,bugs
+5ca1d65f1d99bc38dbf67aa6,Sep 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d65f1d99bc38dbf67b89,Sep 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d65f1d99bc38dbf67b89,Sep 20 '21,Essentials + Team Pack,36,extenuating-circumstances
+5ca1d6647ace10391ae6ee7d,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6677ace10391ae6f62d,Aug 11 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d66969ec79395e7ee6e2,Jul 27 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d66d69ec79395e7ef048,Sep 09 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d66d83663e38f39632a1,Oct 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d66d905a7a39498b5452,Jul 18 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d66f7ace10391ae70852,Sep 01 '21,Pro8 v1 - Monthly,15,others
+5ca1d670905a7a39498b55ec,Sep 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d67583663e38f39643d3,Dec 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6817ace10391ae72f67,Oct 08 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d6891d99bc38dbf6cfb8,Sep 28 '21,Medium Business v2 - Monthly,199,not-using-anymore
+5ca1d68d69ec79395e7f31d4,Aug 26 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5ca1d68d69ec79395e7f344c,Jul 14 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d68e905a7a39498b9a85,Jul 20 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d6907ace10391ae74f56,Jul 30 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d69583663e38f3968840,Sep 18 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d6971d99bc38dbf6eb7e,Aug 07 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d6a21d99bc38dbf7068f,Sep 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d6a2fd16da39824a9f30,Oct 31 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d6a51d99bc38dbf70d97,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6ab83663e38f396b0ff,Nov 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6ae83663e38f396b51e,Aug 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6b01d99bc38dbf72071,Oct 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6b07ace10391ae792be,Aug 07 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d6b1fd16da39824ac4e4,Aug 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6b369ec79395e7f8341,Nov 08 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5ca1d6b41d99bc38dbf72b11,Sep 11 '21,Pro8 v1 - Yearly,144,bugs
+5ca1d6b5905a7a39498beef0,Sep 18 '21,Pro8 v1 - Monthly,15,others
+5ca1d6b81d99bc38dbf73163,Sep 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6b8fd16da39824ad476,Dec 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6b9905a7a39498bf2c1,Aug 29 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d6bb1d99bc38dbf73b30,Sep 09 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d6bb1d99bc38dbf73b30,Sep 21 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d6bb69ec79395e7f8ffd,Oct 23 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d6bb7ace10391ae7aec9,Sep 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6bc905a7a39498bf9cc,Jul 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d6bffd16da39824ae27d,Oct 27 '21,Premium Business v1 - Yearly,663,others
+5ca1d6c27ace10391ae7bb01,Aug 11 '21,Pro8 v1 - Yearly,144,others
+5ca1d6c61d99bc38dbf751e6,Sep 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d6c883663e38f396f144,Aug 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6cb905a7a39498c1a2a,Aug 11 '21,Pro8 v1 - Monthly,15,others
+5ca1d6ce905a7a39498c22f6,Jul 31 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d6d17ace10391ae7dae6,Dec 08 '21,Pro8 v1 - Monthly,15,others
+5ca1d6d2905a7a39498c2b19,Aug 22 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d6d2905a7a39498c2cab,Aug 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6d6905a7a39498c33db,Dec 18 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d6d6905a7a39498c33e6,Sep 23 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d6d783663e38f3971210,Dec 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6da905a7a39498c3a62,Nov 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6db69ec79395e7fd39c,Nov 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6dc69ec79395e7fd97f,Oct 02 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d6de83663e38f3971c86,Dec 12 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d6e9fd16da39824b3c10,Oct 15 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d6ec905a7a39498c604e,Sep 06 '21,Premium Business v1 - Yearly,663,too-expensive
+5ca1d6edfd16da39824b4615,Dec 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6ee83663e38f3973e94,Jul 20 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d6f0905a7a39498c67b2,Aug 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6f71d99bc38dbf7b71e,Jul 02 '21,Pro8 v1 - Yearly,144,others
+5ca1d6f87ace10391ae82dca,Oct 30 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d6f97ace10391ae83151,Oct 01 '21,Pro8 v1 - Monthly,15,others
+5ca1d6fc1d99bc38dbf7c2fd,Aug 14 '21,Pro8 v1 - Monthly,15,others
+5ca1d6ff905a7a39498c87f5,Sep 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d6ff905a7a39498c8803,Aug 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d7031d99bc38dbf7d04c,Sep 03 '21,Pro8 v1 - Monthly,15,others
+5ca1d704fd16da39824b7764,Aug 12 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d7077ace10391ae8537b,Aug 30 '21,Medium Business v2 - Monthly,199,bugs
+5ca1d7077ace10391ae8537b,Dec 01 '21,Medium Business v2 - Monthly,199,bugs
+5ca1d707fd16da39824b7846,Oct 02 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d708905a7a39498c9b1d,Jul 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d70b83663e38f3977b4e,Aug 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d7111d99bc38dbf7eab4,Jul 25 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d7151d99bc38dbf7f7a1,Jul 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d71669ec79395e805a43,Oct 20 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d71983663e38f3979a38,Nov 02 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d7241d99bc38dbf81936,Sep 08 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d728fd16da39824bc13d,Sep 16 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d72c69ec79395e808bca,Jul 27 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d7321d99bc38dbf83351,Nov 05 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d73a1d99bc38dbf84660,Dec 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d73a905a7a39498cfdf9,Jul 13 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d73d83663e38f397e8d7,Sep 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d73e1d99bc38dbf84eb8,Sep 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d74169ec79395e80b914,Nov 29 '21,Premium Business v1 - Monthly,65,bugs
+5ca1d74169ec79395e80b914,Sep 13 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,bugs
+5ca1d74883663e38f3980245,Oct 05 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d74883663e38f3980412,Aug 02 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d74f1d99bc38dbf86b8e,Sep 30 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d752fd16da39824c1449,Oct 08 '21,Pro8 v1 - Monthly,15,others
+5ca1d7567ace10391ae8f799,Jul 08 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+5ca1d7567ace10391ae8f799,Jul 24 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d7567ace10391ae8f799,Sep 25 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d759fd16da39824c2408,Jul 18 '21,Small Business v2 - Monthly,99,missing-features
+5ca1d75b905a7a39498d451f,Oct 25 '21,Pro8 v1 - Yearly,144,others
+5ca1d7647ace10391ae9131a,Aug 05 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d770905a7a39498d728e,Dec 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d77c905a7a39498d8eb0,Jul 24 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+5ca1d78e69ec79395e81682d,Aug 28 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d7931d99bc38dbf8f04a,Sep 24 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d79683663e38f398a4da,Sep 07 '21,Pro8 v1 - Monthly,15,others
+5ca1d7a183663e38f398bc72,Aug 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d7a1905a7a39498ddb85,Nov 08 '21,Pro8 v1 - Yearly,144,others
+5ca1d7a51d99bc38dbf91916,Aug 24 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d7a87ace10391ae99f47,Aug 13 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d7abfd16da39824cd055,Aug 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d7b01d99bc38dbf92fe5,Aug 06 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,missing-features
+5ca1d7b01d99bc38dbf92fe5,Sep 07 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d7b0905a7a39498df81f,Jul 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d7b0905a7a39498df81f,Nov 04 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d7b583663e38f398e0ba,Sep 04 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d7b67ace10391ae9bbe8,Nov 18 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d7ba1d99bc38dbf941ef,Nov 11 '21,Analyze Early Access 10 Social Channels,25,too-expensive
+5ca1d7ba1d99bc38dbf941ef,Oct 27 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d7bf905a7a39498e14d2,Sep 18 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d7c01d99bc38dbf94fbf,Aug 19 '21,publish_premium_m_35_201910,35,too-expensive
+5ca1d7c283663e38f398f9e9,Jul 28 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d7c31d99bc38dbf9569b,Oct 18 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d7c7fd16da39824d0e94,Jul 12 '21,Pro8 v1 - Monthly,15,others
+5ca1d7c87ace10391ae9e59f,Sep 09 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d7d21d99bc38dbf9711d,Oct 07 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d7da905a7a39498e4ed0,Oct 03 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d7dd905a7a39498e5577,Oct 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d7e11d99bc38dbf9931c,Jul 10 '21,Pro8 v1 - Yearly,144,bugs
+5ca1d7e3fd16da39824d441a,Jul 02 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d7e3fd16da39824d4722,Dec 27 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d7ea1d99bc38dbf9a526,Jul 23 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d7ec905a7a39498e7829,Aug 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d7ec905a7a39498e794a,Oct 22 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d7eefd16da39824d61e8,Dec 30 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d7ef83663e38f3995a3d,Sep 07 '21,Pro8 v1 - Monthly,15,others
+5ca1d7f57ace10391aea42ef,Oct 18 '21,Pro8 v1 - Yearly,144,others
+5ca1d7f683663e38f39968d1,Jul 14 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d7f91d99bc38dbf9c23c,Oct 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d7fa83663e38f3997258,Oct 09 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d7fd7ace10391aea516b,Dec 17 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d80183663e38f3997bfd,Dec 27 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d8031d99bc38dbf9d7ad,Jul 13 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d8031d99bc38dbf9d7ad,Oct 04 '21,Essentials + Team Pack,36,extenuating-circumstances
+5ca1d8041d99bc38dbf9d8cb,Sep 30 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d805905a7a39498eaf8d,Aug 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d80883663e38f399911f,Aug 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8167ace10391aea8e21,Sep 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8177ace10391aea90b2,Dec 09 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d820905a7a39498ef552,Aug 18 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d820905a7a39498ef552,Jul 02 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d82183663e38f399cc9f,Jul 25 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d82483663e38f399d7ce,Dec 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8291d99bc38dbfa38d6,Jul 21 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d82a1d99bc38dbfa3966,Sep 26 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d82a83663e38f399e0ce,Jul 19 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d82b7ace10391aeac6f3,Oct 09 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d82c1d99bc38dbfa3e78,Oct 15 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d82c905a7a39498f0ac4,Oct 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d82e7ace10391aeacbab,Aug 26 '21,Pro8 v1 - Monthly,15,others
+5ca1d82e7ace10391aeacbab,Oct 30 '21,Pro8 v1 - Monthly,15,others
+5ca1d83383663e38f399fcb4,Aug 02 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d8351d99bc38dbfa5721,Oct 03 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d83769ec79395e82ea38,Aug 30 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d8381d99bc38dbfa5ea8,Dec 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8387ace10391aeae27a,Dec 21 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d83c1d99bc38dbfa67a5,Aug 10 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d83d7ace10391aeaf382,Nov 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8457ace10391aeb05aa,Sep 07 '21,Pro8 v1 - Monthly,15,others
+5ca1d8481d99bc38dbfa807d,Aug 12 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d84883663e38f39a3179,Oct 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d84f905a7a39498f6591,Sep 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8511d99bc38dbfa947b,Aug 08 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d8527ace10391aeb2817,Nov 10 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d85483663e38f39a546d,Sep 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d857905a7a39498f7f20,Oct 01 '21,Pro8 v1 - Monthly,15,others
+5ca1d857905a7a39498f8056,Oct 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d85c1d99bc38dbfab43f,Jul 17 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d8687ace10391aeb5763,Sep 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d86969ec79395e8369a1,Sep 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d869905a7a39498fae0c,Dec 10 '21,Premium Business v1 - Monthly,65,others
+5ca1d869905a7a39498fb006,Aug 20 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d86c1d99bc38dbfadae2,Oct 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d86f1d99bc38dbfae06d,Oct 19 '21,Pro8 v1 - Monthly,15,others
+5ca1d86f69ec79395e8377a2,Sep 25 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d87083663e38f39a9702,Sep 29 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d872905a7a39498fc1ea,Nov 04 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d87383663e38f39a9f4e,Oct 06 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d8747ace10391aeb78c7,Oct 23 '21,Small Business v2 - Monthly,99,others
+5ca1d87a7ace10391aeb8979,Aug 22 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d87a7ace10391aeb8979,Sep 28 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d87c1d99bc38dbfaffaf,Aug 31 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d87d7ace10391aeb94ae,Sep 19 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d881905a7a39498fe9c6,Jul 12 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d88583663e38f39acc48,Aug 15 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5ca1d88f1d99bc38dbfb31c7,Jul 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8921d99bc38dbfb35d9,Jul 17 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+5ca1d8921d99bc38dbfb35d9,Sep 19 '21,Essentials + Team Pack,240,too-expensive
+5ca1d8951d99bc38dbfb3fad,Jul 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8967ace10391aebcb6d,Aug 05 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d89a905a7a39499028bd,Sep 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d89f905a7a39499036fd,Oct 20 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d8a27ace10391aebeafe,Sep 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8a583663e38f39b1c52,Dec 12 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d8a9905a7a3949904e5d,Jul 24 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d8a9905a7a3949904f42,Dec 02 '21,Small Business v2 - Yearly,">= 1,000",others
+5ca1d8ab1d99bc38dbfb78f0,Sep 08 '21,Pro8 v1 - Monthly,15,others
+5ca1d8ac905a7a3949905993,Dec 08 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d8b01d99bc38dbfb88f4,Nov 02 '21,Pro8 v1 - Yearly,144,others
+5ca1d8b47ace10391aec19ea,Oct 27 '21,Pro8 v1 - Monthly,15,others
+5ca1d8b583663e38f39b3af0,Oct 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8b883663e38f39b4329,Aug 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8bb7ace10391aec2e2a,Oct 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d8bb7ace10391aec2e9f,Dec 13 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d8bc1d99bc38dbfba369,Aug 14 '21,Pro8 v1 - Yearly,144,others
+5ca1d8c0905a7a3949908c5d,Sep 19 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d8c0905a7a3949908cb5,Dec 21 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d8da83663e38f39b9063,Aug 16 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d8da83663e38f39b9063,Aug 31 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1d8de1d99bc38dbfbf1c0,Jul 18 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d8de1d99bc38dbfbf229,Aug 11 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d8e57ace10391aec941c,Sep 12 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d8fb1d99bc38dbfc24e8,Oct 12 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d8fb83663e38f39bc5cb,Oct 18 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5ca1d8fe1d99bc38dbfc2bdb,Nov 17 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d9027ace10391aecc0cc,Sep 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d90669ec79395e84eb51,Nov 19 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d9067ace10391aeccc36,Nov 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9091d99bc38dbfc4bec,Sep 13 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5ca1d90c83663e38f39bf97f,Nov 20 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d90e1d99bc38dbfc5db9,Aug 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9101d99bc38dbfc6344,Aug 28 '21,Pro8 v1 - Monthly,15,others
+5ca1d9131d99bc38dbfc6cd6,Aug 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d91469ec79395e85130c,Dec 23 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d91583663e38f39c1470,Nov 25 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d91c69ec79395e852bf3,Dec 16 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d91c7ace10391aed0e5a,Dec 15 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d91d1d99bc38dbfc808e,Aug 25 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d9201d99bc38dbfc8ad4,Jul 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d9231d99bc38dbfc919f,Aug 20 '21,Premium Business v1 - Monthly,65,bugs
+5ca1d9237ace10391aed277d,Sep 29 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d9271d99bc38dbfc9e2e,Aug 31 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d9277ace10391aed32e3,Sep 01 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1d9281d99bc38dbfca166,Oct 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9281d99bc38dbfca167,Sep 05 '21,Pro8 v1 - Monthly,15,others
+5ca1d92983663e38f39c5652,Oct 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d92d69ec79395e8560c3,Dec 10 '21,Pro8 v1 - Monthly,15,others
+5ca1d92f1d99bc38dbfcb3bf,Oct 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d92f1d99bc38dbfcb97f,Jul 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d92f69ec79395e856860,Nov 16 '21,Pro8 v1 - Monthly,15,bugs
+5ca1d93183663e38f39c6de8,Oct 06 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5ca1d9341d99bc38dbfcc49f,Aug 27 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d9361d99bc38dbfccf54,Oct 05 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5ca1d9361d99bc38dbfcd05e,Oct 08 '21,Premium Business v1 - Yearly,663,too-expensive
+5ca1d9391d99bc38dbfcda0c,Aug 30 '21,Small Business v2 - Monthly,99,missing-features
+5ca1d93b1d99bc38dbfcdfff,Nov 19 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d93b83663e38f39c8ca3,Aug 28 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d93f83663e38f39c961e,Dec 15 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d9407ace10391aed80c1,Aug 11 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+5ca1d94569ec79395e85ae07,Oct 19 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d9461d99bc38dbfd00cd,Dec 09 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d94a83663e38f39cbba8,Nov 16 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d95169ec79395e85de47,Jul 09 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d95583663e38f39cec1c,Sep 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d95669ec79395e85f171,Oct 19 '21,publish_premium_y_336_201910,336,not-using-anymore
+5ca1d9571d99bc38dbfd44cc,Jul 11 '21,Pro8 v1 - Monthly,15,others
+5ca1d9591d99bc38dbfd4b08,Sep 16 '21,Pro8 v1 - Monthly,15,others
+5ca1d95d1d99bc38dbfd5a88,Nov 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d96783663e38f39d2da4,Sep 07 '21,Pro8 v1 - Yearly,144,others
+5ca1d96783663e38f39d321f,Nov 22 '21,Small Business v2 - Monthly,99,others
+5ca1d9691d99bc38dbfd8cf9,Sep 28 '21,Pro8 v1 - Yearly,144,bugs
+5ca1d96d83663e38f39d49f3,Sep 09 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d96e69ec79395e8652ae,Dec 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9711d99bc38dbfda5f0,Sep 07 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d9711d99bc38dbfdac54,Oct 26 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d97183663e38f39d58af,Jul 06 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5ca1d9781d99bc38dbfdc809,Dec 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d97883663e38f39d71b9,Oct 10 '21,Pro8 v1 - Yearly,144,others
+5ca1d97c1d99bc38dbfdd787,Oct 06 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d97f1d99bc38dbfdeaf5,Sep 10 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1d97f83663e38f39d8388,Sep 18 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d97f83663e38f39d895f,Sep 28 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d9821d99bc38dbfdf97f,Sep 16 '21,publish_premium_y_336_201910,336,extenuating-circumstances
+5ca1d9841d99bc38dbfe0166,Sep 30 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d98483663e38f39d9b54,Jul 16 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5ca1d98483663e38f39d9b54,Sep 18 '21,Pro8 v1 - Monthly,15,others
+5ca1d98c69ec79395e86ca49,Sep 10 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d98d1d99bc38dbfe241b,Oct 01 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d98d83663e38f39dc1fb,Aug 17 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d98d83663e38f39dc60e,Jul 20 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d9931d99bc38dbfe40de,Sep 15 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d99383663e38f39ddb2d,Jul 19 '21,Pro8 v1 - Monthly,15,others
+5ca1d9951d99bc38dbfe46de,Sep 29 '21,publish_premium_y_336_201910,336,extenuating-circumstances
+5ca1d9951d99bc38dbfe486c,Oct 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9971d99bc38dbfe4e47,Oct 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9971d99bc38dbfe4f36,Aug 28 '21,Pro8 v1 - Monthly,15,others
+5ca1d99f1d99bc38dbfe69b4,Aug 15 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d9a31d99bc38dbfe7b4c,Oct 19 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5ca1d9a369ec79395e872728,Aug 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9aa83663e38f39e3fa6,Dec 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d9b369ec79395e87680d,Dec 22 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ca1d9b369ec79395e876960,Oct 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9b51d99bc38dbfebeb4,Dec 08 '21,Premium Business v1 - Monthly,65,bugs
+5ca1d9bc1d99bc38dbfed9a2,Oct 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9bc1d99bc38dbfeda1c,Sep 18 '21,publish_premium_m_35_201910,35,too-expensive
+5ca1d9c71d99bc38dbfeff22,Aug 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9c71d99bc38dbff02f1,Sep 29 '21,Pro8 v1 - Yearly,144,bugs
+5ca1d9c883663e38f39eb72a,Oct 05 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d9c91d99bc38dbff054a,Oct 27 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1d9cb69ec79395e87bfbf,Dec 20 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d9cb83663e38f39ebd9a,Oct 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9d083663e38f39ed79a,Oct 27 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1d9d083663e38f39ed79a,Oct 27 '21,Small Business v2 - Monthly,99,too-expensive
+5ca1d9d369ec79395e87e555,Dec 15 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d9d51d99bc38dbff37bd,Oct 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9dc83663e38f39f0091,Jul 29 '21,Pro8 v1 - Monthly,15,others
+5ca1d9dd1d99bc38dbff5268,Oct 17 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d9dd69ec79395e880a6d,Sep 21 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d9e51d99bc38dbff768d,Nov 21 '21,Premium Business v1 - Yearly,663,too-expensive
+5ca1d9e71d99bc38dbff7ba5,Jul 13 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d9e869ec79395e8834cd,Sep 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9e869ec79395e88390a,Nov 10 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1d9ef83663e38f39f505c,Sep 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1d9ef83663e38f39f553e,Oct 19 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1d9f01d99bc38dbffa526,Dec 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1d9f183663e38f39f5d8d,Sep 26 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1d9f31d99bc38dbffbb99,Oct 03 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ca1d9f383663e38f39f68d2,Oct 11 '21,Pro8 v1 - Yearly,144,others
+5ca1d9f483663e38f39f74d2,Nov 26 '21,Small Business v2 - Monthly,99,others
+5ca1d9f91d99bc38dbffd8eb,Dec 03 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1d9fa1d99bc38dbffe50b,Oct 23 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1da021d99bc38db001538,Oct 17 '21,Pro8 v1 - Yearly,144,others
+5ca1da0b1d99bc38db00488d,Oct 02 '21,Pro8 v1 - Monthly,15,others
+5ca1da0c83663e38f39feba5,Oct 17 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1da171d99bc38db007c43,Jul 23 '21,Pro8 v1 - Monthly,15,others
+5ca1da1783663e38f3a02a11,Jul 15 '21,Pro8 v1 - Monthly,15,others
+5ca1da181d99bc38db008648,Aug 30 '21,Pro8 v1 - Monthly,15,others
+5ca1da181d99bc38db00864b,Sep 30 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1da1983663e38f3a038a6,Oct 10 '21,Pro8 v1 - Monthly,15,others
+5ca1da1a1d99bc38db008a73,Jul 31 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1da1c1d99bc38db009637,Jul 31 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1da1d1d99bc38db009af8,Aug 19 '21,Pro8 v1 - Monthly,15,bugs
+5ca1da1e83663e38f3a054da,Aug 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1da1e83663e38f3a054f7,Oct 24 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1da231d99bc38db00b946,Sep 19 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1da261d99bc38db00d005,Nov 07 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5ca1da261d99bc38db00d005,Sep 15 '21,Pro8 v1 - Monthly,15,others
+5ca1da2c1d99bc38db00ece5,Nov 05 '21,Pro8 v1 - Yearly,144,bugs
+5ca1da2c1d99bc38db00ef93,Aug 05 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1da2e1d99bc38db00f524,Oct 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1da3083663e38f3a0c238,Dec 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1da3283663e38f3a0cb06,Aug 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1da3883663e38f3a0f0d2,Nov 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1dae11d99bc38db017f1a,Aug 17 '21,Small Business v2 - Monthly,99,bugs
+5ca1dae11d99bc38db01833a,Sep 26 '21,Pro8 v1 - Monthly,15,others
+5ca1dae31d99bc38db019724,Dec 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1dae41d99bc38db019bd6,Aug 13 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1dae51d99bc38db01a4ea,Oct 14 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1dae91d99bc38db01c989,Aug 06 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1daeb1d99bc38db01d812,Aug 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1daf11d99bc38db01fec2,Jul 19 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1daf31d99bc38db020df2,Aug 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1daf51d99bc38db021e5b,Aug 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1db021d99bc38db0266bf,Aug 28 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1db051d99bc38db027126,Dec 06 '21,Small Business v2 - Yearly,">= 1,000",too-expensive
+5ca1db051d99bc38db0272ce,Sep 29 '21,Pro8 v1 - Monthly,15,others
+5ca1db051d99bc38db027580,Sep 14 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1db0c1d99bc38db02a389,Sep 05 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1db101d99bc38db02bb80,Sep 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1db131d99bc38db02cc5e,Oct 29 '21,Large Business v2 - Monthly,399,missing-features
+5ca1db131d99bc38db02cc8d,Nov 29 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1db141d99bc38db02d5d0,Dec 16 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5ca1db141d99bc38db02d5d0,Dec 29 '21,Small Business v2 - Monthly,99,others
+5ca1db151d99bc38db02df1c,Oct 01 '21,Pro8 v1 - Monthly,15,bugs
+5ca1db221d99bc38db033401,Oct 01 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1db261d99bc38db03510b,Aug 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1db261d99bc38db035286,Dec 21 '21,Small Business v2 - Yearly,">= 1,000",extenuating-circumstances
+5ca1db271d99bc38db035c91,Jul 28 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1db271d99bc38db035c91,Oct 14 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1db2d1d99bc38db0384e6,Dec 19 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1db2d1d99bc38db0384e6,Sep 01 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1db301d99bc38db0397e0,Oct 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1db331d99bc38db03aa2a,Dec 14 '21,Pro8 v1 - Yearly,144,others
+5ca1db381d99bc38db03c52f,Dec 27 '21,Pro8 v1 - Yearly,144,missing-features
+5ca1db391d99bc38db03d225,Aug 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1db3a1d99bc38db03d55c,Aug 24 '21,Pro8 v1 - Monthly,15,others
+5ca1db411d99bc38db03fd9d,Aug 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1db411d99bc38db03ffb4,Aug 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1db441d99bc38db040c49,Aug 31 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+5ca1db441d99bc38db040c49,Aug 31 '21,Pro8 v1 - Yearly,144,too-expensive
+5ca1db471d99bc38db04266b,Dec 25 '21,Pro8 v1 - Monthly,15,others
+5ca1db4f1d99bc38db044db4,Sep 07 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1db501d99bc38db0453a5,Sep 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1db521d99bc38db0464e3,Dec 15 '21,Small Business v2 - Monthly,99,bugs
+5ca1f8ad4e1bb03edf24efec,Nov 06 '21,Small Business v2 - Monthly,99,others
+5ca1f8b04e1bb03edf24f83e,Nov 07 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1f8ca4e1bb03edf253016,Nov 10 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1f8dd4e1bb03edf25638b,Oct 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1f8e94e1bb03edf257ebe,Jul 17 '21,Pro8 v1 - Monthly,15,others
+5ca1f8ef4e1bb03edf258e5f,Jul 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1f8ef4e1bb03edf259130,Dec 28 '21,Premium Business v1 - Yearly,663,not-using-anymore
+5ca1f8ef4e1bb03edf259254,Aug 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1f8fe4e1bb03edf25b3f7,Aug 18 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1f8fe4e1bb03edf25b481,Aug 07 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1f8fe4e1bb03edf25b481,Aug 23 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1f9164e1bb03edf25f44a,Aug 16 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1f91f4e1bb03edf261138,Dec 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1f9304e1bb03edf263277,Oct 31 '21,Pro8 v1 - Monthly,15,others
+5ca1f9434e1bb03edf2666da,Aug 05 '21,publish_premium_m_35_201910,35,not-using-anymore
+5ca1f9494e1bb03edf2676d3,Nov 29 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1f94c4e1bb03edf267bd4,Sep 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1f97e4e1bb03edf26ec2d,Dec 07 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1f9934e1bb03edf2722f4,Oct 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1f9934e1bb03edf2726c9,Oct 04 '21,Pro8 v1 - Monthly,15,others
+5ca1f99c4e1bb03edf273c2a,Aug 18 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1f99c4e1bb03edf274140,Oct 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1f9a54e1bb03edf2757d1,Dec 22 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1f9ae4e1bb03edf276be9,Aug 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1f9b74e1bb03edf278090,Dec 18 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1f9ba4e1bb03edf278f63,Sep 21 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1f9c04e1bb03edf279f76,Nov 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1f9c04e1bb03edf279f76,Oct 31 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1f9c64e1bb03edf27a929,Nov 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1fa2c4e1bb03edf28bcef,Sep 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1fa2f4e1bb03edf28c7a1,Aug 23 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+5ca1fa324e1bb03edf28cf34,Oct 15 '21,Small Business v2 - Monthly,99,others
+5ca1fa404e1bb03edf28f035,Sep 18 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1fe033101e13fb49ab8a9,Nov 16 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1fe0f3101e13fb49acb13,Dec 08 '21,Pro8 v1 - Monthly,15,others
+5ca1fe2a3101e13fb49b11f7,Aug 23 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+5ca1fe2a3101e13fb49b11f7,Jul 20 '21,Premium Business v1 - Monthly,65,too-expensive
+5ca1fe393101e13fb49b3f84,Jul 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1fe3c3101e13fb49b3fe6,Nov 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1fe563101e13fb49b8752,Sep 20 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca1fe7c3101e13fb49bedf3,Aug 26 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1fe9d3101e13fb49c4916,Dec 19 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1fe9f3101e13fb49c4f20,Jul 26 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca1fea53101e13fb49c5e4a,Sep 02 '21,Pro8 v1 - Monthly,15,bugs
+5ca1feae3101e13fb49c74b4,Aug 10 '21,Pro8 v1 - Monthly,15,too-expensive
+5ca1fed03101e13fb49cc004,Sep 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1fed03101e13fb49cc136,Dec 29 '21,Pro8 v1 - Monthly,15,missing-features
+5ca1fed63101e13fb49cce21,Oct 28 '21,Small Business v2 - Monthly,99,missing-features
+5ca1fed93101e13fb49cd69c,Aug 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca1fee53101e13fb49cf9e3,Oct 02 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ca1feff3101e13fb49d3e0c,Aug 14 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ca1ff163101e13fb49d8147,Aug 02 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ca1ff223101e13fb49d9e1f,Oct 01 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ca1ff223101e13fb49d9e1f,Sep 16 '21,Premium Business v1 - Monthly,65,too-expensive
+5ca1ff3a3101e13fb49dd9a5,Jul 22 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca203877ed8a0400a1dfd86,Oct 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca21c411d56b5408f4a8cd0,Oct 13 '21,Pro8 v1 - Monthly,15,missing-features
+5ca21c4e1d56b5408f4aaec0,Dec 12 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5ca21c4e1d56b5408f4aaec0,Oct 28 '21,Premium Business v1 - Monthly,65,others
+5ca21c5a1d56b5408f4acb5d,Sep 21 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ca21c601d56b5408f4ada54,Dec 13 '21,Small Business v2 - Yearly,">= 1,000",extenuating-circumstances
+5ca21e461d56b5408f4afc61,Dec 07 '21,Pro8 v1 - Monthly,15,others
+5ca224911d56b5408f4b1b10,Sep 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ca271997417b1727646d89e,Aug 15 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ca535f5fffb7b50c1c03383,Aug 07 '21,Pro8 v1 - Monthly,15,missing-features
+5ca6c6f38f4d6b70c5421b02,Nov 22 '21,publish_premium_y_336_201910,336,not-using-anymore
+5cacf907fffb7b70a9c03a93,Jul 16 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5cad07d86ac2fe659a4aa290,Aug 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5cb05e7288bc240049bd58e0,Oct 04 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5cb0c5fa71b0fa8d0d1f52a6,Sep 16 '21,publish_premium_m_35_201910,35,not-using-anymore
+5cb30bcc88bc2482c9bd5a98,Aug 09 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5cbddaa4dcca582a3fa08ee6,Dec 13 '21,Pro8 v1 - Monthly,15,others
+5cbf12b5fce102a4a99000e7,Sep 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5cc05cd71ebd34303e142c74,Jul 25 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5cc2cd3dbeba030fcdbf0ecd,Oct 23 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5cc31b25fce102308a90049a,Oct 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5cc7ef46cb20ca6d218144ac,Sep 26 '21,Pro8 v1 - Yearly,144,others
+5cc9eda974cc8b04c49513ef,Aug 20 '21,Small Business v2 - Monthly,99,not-using-anymore
+5cc9f8f72d8ddf2e028e0271,Jul 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ccc26d598efec7f70dc4864,Aug 13 '21,Pro8 v1 - Monthly,15,too-expensive
+5cd038c2e5a74aaf35bc291b,Sep 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5cd139a7fadb4dece3d0c086,Dec 21 '21,Small Business v2 - Monthly,99,not-using-anymore
+5cd17a2aac33872559fe8828,Oct 18 '21,Pro8 v1 - Monthly,15,others
+5cd318ad990c6e43dd957647,Sep 23 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5cd32eebe5a74a4225bc2c3a,Aug 16 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5cd3c276e5a74a8e0abc2cab,Oct 24 '21,Pro8 v1 - Monthly,15,others
+5cd48f082d8ddf74348e0c0f,Oct 04 '21,Pro8 v1 - Yearly,144,missing-features
+5cd8119c6502c34e626b6bb1,Jul 19 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5cd89cb96502c30d416b6c09,Sep 22 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5cdadea179409d28995ba6ab,Oct 18 '21,Small Business v2 - Yearly,">= 1,000",bugs
+5ce18ec4159d93c929c0dbef,Dec 14 '21,publish_premium_m_35_201910,35,extenuating-circumstances
+5ce18ec4159d93c929c0dbef,Dec 28 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+5ce30933b89bb2a872f3c8a6,Aug 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ce3fd809c26a70065bf1fbc,Dec 06 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5ce4b3f9f57fd6f0798cdd25,Aug 22 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ceaf920159d93644fc0e35e,Jul 06 '21,Pro8 v1 - Monthly,15,others
+5cecfb2f159d939b44c0e52b,Jul 15 '21,publish_premium_m_35_201910,35,others
+5ced66039c26a7dd82bf2795,Oct 09 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ced9ef75cf76c3d4a092701,Nov 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5cede1c0b89bb25704f3d12d,Aug 14 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+5cf0e90cedd92a46a74c754b,Sep 20 '21,Pro8 v1 - Monthly,15,missing-features
+5cf34d7c7b626a53a554cc76,Aug 06 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5cf34d7c7b626a53a554cc76,Nov 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5cf7d0412bad991041f75ba4,Aug 19 '21,Premium Business v1 - Monthly,65,too-expensive
+5cf7f868f1d517698a230dd1,Nov 26 '21,Premium Business v1 - Monthly,65,bugs
+5cfa8419edd92a03624c7dab,Dec 30 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5cfac9be7b626a5bf854d372,Sep 02 '21,Pro8 v1 - Yearly,144,missing-features
+5cfe240f3bb0b519bfdca6e8,Aug 28 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5cff83c9f1d517ff0523144c,Sep 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d01dd0df1d517db8923167c,Sep 13 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5d087fb27b626a8b6d54dea8,Oct 29 '21,Small Business v2 - Yearly,">= 1,000",others
+5d08c96bf1d5177001231c0d,Aug 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d0962501284072829d587b9,Oct 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d0a2923fdb74a0eab8d0a81,Oct 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d0a7c9df825d5f489de4440,Aug 05 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d117b998b447d90b66a0d72,Sep 13 '21,Pro8 v1 - Yearly,144,missing-features
+5d117b998b447d90b66a0d72,Sep 27 '21,Buffer Analyze - Full Price 10 Social Channels Annual,480,missing-features
+5d11fbdc8b447d199e6a0dd0,Jul 09 '21,Pro8 v1 - Yearly,144,missing-features
+5d17353ecbd0aa42179e7d7d,Nov 13 '21,Pro8 v1 - Monthly,15,too-expensive
+5d1765fe7863b81e354be4a4,Aug 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d1dfa36c6f9ce17a2e97aa8,Aug 15 '21,Pro8 v1 - Monthly,15,too-expensive
+5d1fdd15902298f6566e8e42,Aug 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d209e85902298761f6e8e8c,Aug 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d23b320a7db155b6bb5a9b1,Dec 25 '21,Pro8 v1 - Monthly,15,others
+5d23d3c7ac48555612604494,Dec 22 '21,Small Business v2 - Monthly,99,not-using-anymore
+5d2476cfac48555349604518,Aug 08 '21,Small Business v2 - Monthly,99,others
+5d2476cfac48555349604518,Aug 29 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5d25c484433ae3289bd1fca0,Aug 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d2614ce433ae3c0b0d1fd1a,Jul 18 '21,Pro8 v1 - Yearly,144,others
+5d26170048ff29dd249402df,Jul 18 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d273d7b4d0fcecf6f3ad88f,Aug 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d28f6729ff0bf23d50c8955,Sep 29 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5d2bb0ede47b8b2682ed51e6,Oct 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d2cacc7cdf66b5f8b40708d,Aug 07 '21,Pro8 v1 - Yearly,144,too-expensive
+5d2e3fe87944da489c2fdb7f,Sep 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d2f2f9bcdf66b31cf4073b0,Oct 26 '21,Pro8 v1 - Yearly,144,bugs
+5d2f9357dd466ebc20fdefae,Aug 05 '21,Small Business v2 - Yearly,">= 1,000",extenuating-circumstances
+5d300ee87944daf25b2fddb5,Nov 26 '21,Pro8 v1 - Monthly,15,too-expensive
+5d31df33e47b8b1342ed58c9,Jul 30 '21,Pro8 v1 - Monthly,15,others
+5d31df33e47b8b1342ed58c9,Oct 30 '21,Pro8 v1 - Monthly,15,others
+5d35ab34e47b8b0764ed5b71,Aug 06 '21,Premium Business v1 - Yearly,663,too-expensive
+5d35b1bb7944da7a0f2fe259,Aug 23 '21,publish_premium_m_35_201910,35,missing-features
+5d35f8e1cdf66bf40a40799f,Jul 22 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d377bcd94cc2103eb6157ac,Aug 17 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d3897ecbdd9aa79b6447ee4,Oct 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d38becfbdd9aada4f447f15,Sep 26 '21,Pro8 v1 - Monthly,15,too-expensive
+5d3d954662fa46a5d01d32c4,Sep 04 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+5d3f0ff87d13a7e87f22a120,Sep 10 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5d3f9831eac3972a5a571fe4,Sep 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5d41bbba52de621b4361f689,Oct 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d44562f94cc212c0461638c,Oct 26 '21,Pro8 v1 - Monthly,15,missing-features
+5d45a2fdbdd9aa7911448b5e,Jul 21 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5d4764037d13a73d5f22a92c,Aug 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d49663594cc2131ba6167bb,Aug 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d49db0652de621fb761fe0c,Aug 20 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5d4acd4fbd3f404bb53a3fe5,Aug 14 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d4b769662fa4631a71d4032,Aug 27 '21,Premium Business v1 - Yearly,663,bugs
+5d4c288652de620fdc620090,Aug 20 '21,Pro8 v1 - Yearly,144,others
+5d4f25d480c896872a355540,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d520d815bf03afc4e5ce0fa,Aug 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d5290f05bf03a8e625ce174,Aug 27 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d52b9715bf03a20ac5ce1a3,Aug 23 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d52f21832e79976e7993001,Sep 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d53a28bfbd0cade56887c9c,Jul 20 '21,publish_premium_m_35_201910,35,not-using-anymore
+5d53a28bfbd0cade56887c9c,Sep 19 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5d556aee8910134cf6ade7cd,Sep 19 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5d59bbc26ea31767f5387563,Sep 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d5b2c7c75b099a9673ddf01,Dec 17 '21,Pro8 v1 - Monthly,15,too-expensive
+5d5d20f58cb50116919bde6d,Sep 06 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d5f0c3310a99b3d0a90b5b2,Sep 12 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d5f72b110a99b3be690b5f4,Oct 13 '21,Pro8 v1 - Monthly,15,missing-features
+5d603406376d5f5b4fd1bcda,Aug 30 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d60342fb4414e94e25e7ccd,Dec 12 '21,Small Business v2 - Monthly,99,others
+5d6048f4c245ceb3752f3a2f,Sep 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d64260f2d67c3f83a826a9c,Jul 09 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5d64260f2d67c3f83a826a9c,Sep 11 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d6610e0e9052e493e056f0d,Sep 03 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5d66976eea9ebd6f222b1743,Dec 03 '21,Large Business v2 - Monthly,399,not-using-anymore
+5d66976eea9ebd6f222b1743,Nov 20 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5d683189a04f690fda65f860,Oct 06 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5d69f2a0e9052e8c24057275,Oct 20 '21,Pro8 v1 - Monthly,15,too-expensive
+5d6aff5f41023c596c558428,Sep 09 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d6d4c9c1623745a0297d277,Jul 09 '21,Pro8 v1 - Monthly,15,others
+5d6edd8e41023c82c3558716,Oct 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d6ee4142a46620e44470ec6,Oct 20 '21,Pro8 v1 - Monthly,15,bugs
+5d6f2792eb0de8cb292f52ff,Oct 03 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d71353f55287339980bd5c3,Dec 11 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d71bf918288a683f795418d,Sep 20 '21,Premium Business v1 - Yearly,663,not-using-anymore
+5d71e806969d826d39275ffa,Sep 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d76a9e62e51b62b2f392f4d,Aug 20 '21,Pro8 v1 - Yearly,144,too-expensive
+5d76ac86aa90bd368e3b5136,Dec 19 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5d7759aa552873ae660bda59,Aug 07 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5d7765ca2e51b63ea3392fdc,Aug 23 '21,Pro8 v1 - Monthly,15,too-expensive
+5d77c7638288a693cf9545fa,Oct 10 '21,Premium Business v1 - Yearly,663,others
+5d783df71c52cac8c27682d3,Sep 11 '21,Pro8 v1 - Monthly,15,others
+5d7904c4403eca764f13f9d7,Sep 11 '21,Pro8 v1 - Yearly,144,others
+5d79272555287357b00bdc30,Aug 25 '21,Premium Business v1 - Monthly,65,too-expensive
+5d7a7771e218a090e45e19c0,Nov 08 '21,Pro8 v1 - Yearly,144,too-expensive
+5d7bd28f7eea2768f69c7fe8,Sep 13 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5d7bf8c9537438929c350a73,Aug 15 '21,Small Business v2 - Monthly,99,too-expensive
+5d7de2f07d4ae919d1754012,Jul 15 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5d810a9a79ba8b062aefcba9,Dec 28 '21,Premium Business v1 - Yearly,663,not-using-anymore
+5d8152f279ba8b675cefcbfd,Nov 05 '21,Pro8 v1 - Yearly,144,bugs
+5d821d42537438fd68350fdd,Sep 09 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5d8234d41da2c395eb13c1e6,Sep 25 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d8244021da2c301db13c1f5,Dec 04 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5d84d27cf247ea555ddfede6,Aug 21 '21,Premium Business v1 - Monthly,65,too-expensive
+5d8732fe79ba8b8fd8efd106,Oct 27 '21,Pro8 v1 - Yearly,144,too-expensive
+5d87d2171ac6df0a6c86cc91,Sep 22 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d8b64af9ac722a7ac6583a3,Jul 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d8b676e0c4f1b75db5ee409,Oct 21 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5d8c7d1153743855c4351889,Sep 26 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d8cc96c537438657d3518dd,Aug 04 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5d90bf000d3ca8de0f9c72b0,Aug 20 '21,Pro8 v1 - Monthly,15,missing-features
+5d90d6f265d28e6cf6c0b652,Oct 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d91d3f870b0d43915ea8379,Oct 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d9295ff803c5970514b0af8,Sep 11 '21,Small Business v2 - Monthly,99,too-expensive
+5d947cd5be0df47257e922de,Nov 21 '21,Pro8 v1 - Monthly,15,bugs
+5d95c57f2b2966d4072f8020,Oct 03 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d969fe65f1d4718b240f387,Oct 05 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5d96fb41e98f9f2248cac8de,Jul 23 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5d97d22f2279da78c2115442,Dec 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5d9830c0c83c514c3aa03895,Sep 24 '21,Pro8 v1 - Monthly,15,others
+5d9b0c01c59d6468f65620ae,Oct 13 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5d9cbc7f44398b468ab94b92,Jul 31 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5da0352adc1e54fff5dd6d87,Oct 23 '21,Pro8 v1 - Monthly,15,others
+5da0907f9a549411839acf31,Oct 21 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5da43f939ef06147248cf128,Jul 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5da484d6645b9f06cc5499ea,Jul 28 '21,Premium Business v1 - Monthly,65,too-expensive
+5da5e96ecc65d60842286d1a,Dec 03 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5da5e96ecc65d60842286d1a,Dec 07 '21,Small Business v2 - Monthly,99,others
+5da6b9a24fe7ee5027ebd61f,Aug 30 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+5da6b9a24fe7ee5027ebd61f,Jul 16 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5da7bd3e607e8133f2367058,Aug 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5da8985484d39d58eae578a5,Nov 11 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5da976ea96e96906cba9e226,Aug 15 '21,Small Business v2 - Monthly,99,not-using-anymore
+5dae29af2889b70153b4dcd9,Aug 31 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5dafcbe6710ea8316c97fc50,Jul 22 '21,Large Business v2 - Monthly,399,not-using-anymore
+5db031ddb810d1f915c36ff3,Oct 24 '21,Pro8 v1 - Yearly,144,missing-features
+5db03bc0c23216cc4c587a55,Aug 19 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5db07edc710ea8074d97fd11,Dec 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5db46e0a8704558696e91be9,Aug 15 '21,Pro8 v1 - Monthly,15,others
+5db65fd6a4c2cc39bb042ed6,Nov 26 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5db7d7b3031fa8e8bafb3c6b,Oct 31 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5db9e326a9aaac6e82964409,Nov 14 '21,Pro8 v1 - Yearly,144,others
+5dbbf02bc6f4c53818f225de,Oct 15 '21,Premium Business v1 - Yearly,663,not-using-anymore
+5dbc99c081a81e70f8552ee1,Nov 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5dbdaaab70f419f9215351c9,Aug 04 '21,Pro8 v1 - Monthly,15,too-expensive
+5dc0a873c6f4c59a4df229c5,Dec 03 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5dc17c93c6f4c5c3c1f22a8b,Nov 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5dc1895d805e6a9c97379908,Nov 12 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5dc1bd6e81a81e13e5553321,Oct 06 '21,Pro8 v1 - Monthly,15,missing-features
+5dc1c9c4c0ac8e5910935a36,Aug 16 '21,Small Business v2 - Monthly,99,missing-features
+5dc4383ca9aaac2fde964ce5,Sep 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5dc8256081a81e3d1d55381d,Jul 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5dc9998b67b18a26387724ee,Jul 25 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5dc9bdd61ca3097cb7487172,Aug 16 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5dcbbf786f99847e91a991ea,Nov 19 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5dcbc54945709053f469c67d,Aug 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5dcbc9b7ebd26dc76806f856,Dec 13 '21,Small Business v2 - Monthly,99,not-using-anymore
+5dcbdd6b3b5f9c89894a7a92,Sep 20 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5dd0b7bd61d92851040728d7,Nov 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5dd2a447f494a4672d6a80da,Oct 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5dd46c6eb29d818805526f20,Nov 19 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5dd586e91bd09c2b0b0a8bb1,Sep 10 '21,Pro8 v1 - Monthly,15,too-expensive
+5dd5d994538d76fb6bf3e237,Oct 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5dd6d986f1c41ea4e130665d,Dec 12 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ddabb0830c2448e409dca29,Dec 25 '21,Pro8 v1 - Monthly,15,missing-features
+5ddbd156bf8931986f1ceb7a,Sep 27 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5ddd2557b29d8141905276e4,Dec 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ddd77b57c7ef659d73c30f4,Nov 26 '21,Pro8 v1 - Yearly,144,too-expensive
+5dddfb5e1bd09c86590a9309,Oct 29 '21,Pro8 v1 - Monthly,15,bugs
+5dde5e20538d760eecf3e936,Sep 10 '21,Pro8 v1 - Monthly,15,others
+5de150b47a85a95d70dc3a12,Oct 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5de54e547c7ef631673c371b,Sep 13 '21,Small Business v2 - Monthly,99,too-expensive
+5de794871bd09ce2500a9a9f,Sep 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5de7bcf37c7ef6c48a3c395e,Sep 15 '21,Small Business v2 - Monthly,99,others
+5dec8929eef5a2058d483ff1,Dec 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ded93083c9a5fe77fc2f861,Aug 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5dee2b310dcc7f45e32f3789,Oct 12 '21,Pro8 v1 - Monthly,15,bugs
+5dee9fd60dcc7f4d282f37f6,Nov 18 '21,Pro8 v1 - Monthly,15,bugs
+5df0198d0dcc7f4b382f3940,Dec 24 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5df5ac7563f94e83b64a5e02,Sep 05 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+5df5ac7563f94e83b64a5e02,Sep 05 '21,Pro8 v1 - Monthly,15,missing-features
+5dfbf281c04487dafd0b2043,Dec 02 '21,Pro8 v1 - Monthly,15,others
+5dfbf9db07995aca95b984af,Jul 30 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5dfca12dc044871c400b209d,Aug 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5dfea68388dc6bf178fba28b,Dec 03 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e0524a8b7fbcd2bc3aedc7d,Oct 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e060386c0448764f40b25e0,Aug 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e09fd3da49980ab0aabd6df,Aug 07 '21,Pro8 v1 - Monthly,15,others
+5e0a7d911da57e851b004bbb,Sep 17 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5e0dfe8d88dc6bc4ccfbac2c,Sep 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e0e08b61da57e2239004e17,Dec 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e0fa0372722f392acc92e23,Aug 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e0fbdd306ec13d02843337f,Oct 17 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e1157607f40a031f1687086,Sep 30 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5e13b0c0a499803c2babde5a,Jul 29 '21,Pro8 v1 - Monthly,15,bugs
+5e16366d7f3d82ba942b73d2,Nov 01 '21,Pro8 v1 - Monthly,15,too-expensive
+5e16366d7f3d82ba942b73d2,Oct 16 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+5e17321362b0e00d31f8ad22,Aug 08 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+5e17b53673eb8e1f978bc9ec,Oct 04 '21,publish_premium_m_35_201910,35,bugs
+5e180da27995705f75bb12dc,Jul 17 '21,Pro8 v1 - Monthly,15,others
+5e19e52273eb8e867e8bcb7c,Aug 06 '21,Pro8 v1 - Yearly,144,too-expensive
+5e1b678d79957016e8bb1541,Sep 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e1c503673eb8ed8568bcd52,Aug 20 '21,Pro8 v1 - Monthly,15,others
+5e1cfe1e799570f7bdbb1701,Aug 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e1dcda6862cab18e97d302a,Nov 08 '21,Pro8 v1 - Monthly,15,others
+5e1e5ea7c2ede5904ff1541e,Sep 10 '21,Pro8 v1 - Monthly,15,others
+5e2079f5426a28fac28fa2dc,Aug 06 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5e21a34c426a2885a78fa3f1,Aug 20 '21,Pro8 v1 - Monthly,15,others
+5e24d5c2b973b93b31910215,Jul 12 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5e25a959005dd8b5b4a8c5f9,Sep 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e25af29dbc9dc8d86c7832d,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e27636093fbd18409329ce7,Oct 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e284ed1c266446fc8ed59a3,Jul 07 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5e29b2a3cbf91e1fe3339efc,Nov 14 '21,Small Business v2 - Monthly,99,not-using-anymore
+5e2eb73f51ff36d3fdbeda59,Nov 04 '21,Premium Business v1 - Monthly,65,others
+5e2ef29959d37439fea0bf08,Sep 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e2f153ba8760a4af2983ac4,Oct 18 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5e2f153ba8760a4af2983ac4,Oct 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e311de2a8760a7ece983cd0,Aug 11 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e31b30b59d37438d8a0c1c5,Oct 01 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e3391f4c26644565aed63ff,Aug 17 '21,Pro8 v1 - Monthly,15,too-expensive
+5e37f73b68748ddc8791528a,Jul 17 '21,Pro8 v1 - Monthly,15,others
+5e383e6f8879a0ab0f2700fa,Jul 19 '21,Pro8 v1 - Monthly,15,others
+5e386aa757c9762f0ce8837f,Aug 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e3a6146947bc173190c5fe4,Oct 12 '21,Pro8 v1 - Monthly,15,bugs
+5e3ad630e206ae9aaa71e399,Aug 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e3bcead3f9cdc6e6cf765ce,Sep 24 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5e3bcead3f9cdc6e6cf765ce,Sep 28 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5e3c1eacc12a6958ddd1eabc,Jul 04 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5e3c1eacc12a6958ddd1eabc,Oct 28 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5e3c39301ad24b2f2e744b78,Sep 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e3fc8edc16f3e3afc4ae008,Jul 24 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e41b0efdecf89a1f6473ef6,Sep 01 '21,Small Business v2 - Monthly,99,missing-features
+5e425f3ddecf89c5b8473f8e,Oct 05 '21,Pro8 v1 - Monthly,15,missing-features
+5e430f96adb6dc722bf43d1e,Aug 29 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5e4363c05253f9ca27be8593,Aug 06 '21,Premium Business v1 - Monthly,65,too-expensive
+5e44a99bf8ae84081586fbb7,Oct 13 '21,Pro8 v1 - Monthly,15,others
+5e488ef2879e95522c82a795,Sep 24 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5e4a83779b0b6023be183c75,Oct 26 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5e4a977428661fcd1fc4b70e,Jul 05 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+5e4b0dc1953e46b407d3d244,Nov 02 '21,Pro8 v1 - Monthly,15,missing-features
+5e4b9c2df02ed82c34c97aa7,Nov 01 '21,Pro8 v1 - Monthly,15,too-expensive
+5e4c2f075e50c6b22c05760a,Aug 13 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e4d38958a4ab754f81a1753,Nov 03 '21,Small Business v2 - Monthly,99,missing-features
+5e4eb20acd753bfe7f05ab38,Sep 03 '21,Pro8 v1 - Monthly,15,too-expensive
+5e4ee690c8fc2eb40afd6dd5,Sep 07 '21,Pro8 v1 - Monthly,15,others
+5e4fb3dd93efcc02244b1d8e,Jul 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e5020a81e6005911ac9ac4a,Oct 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e5215a72639b2492f1b51c2,Nov 08 '21,Pro8 v1 - Yearly,144,too-expensive
+5e55462cd0872b7cbbe63559,Sep 27 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5e5601271e6005bd72c9b0ee,Nov 18 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5e5601271e6005bd72c9b0ee,Sep 12 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5e56b18493efccebc34b238d,Oct 11 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e56f0452639b23c041b5673,Aug 03 '21,Premium Business v1 - Yearly,663,extenuating-circumstances
+5e578d7ee643fd3b0ef9ea17,Sep 21 '21,Pro8 v1 - Monthly,15,others
+5e5791da261aa06a4f565d85,Dec 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e58b0a867b4804485219a8d,Dec 21 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e5d311a907dbf0f6e4e992b,Oct 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e5fea7e38542aa34f2962eb,Aug 16 '21,Pro8 v1 - Monthly,15,bugs
+5e60da915d5e251c03a24f00,Aug 18 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e60e8db7dcb5d00f138be63,Jul 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e62148673e8754e9de8ce41,Aug 16 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+5e661839e16d632c319df1d8,Aug 12 '21,Pro8 v1 - Monthly,15,missing-features
+5e67c7650c4e738ae969ec95,Jul 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e68b4177f330b3bbe429dde,Sep 28 '21,Pro8 v1 - Monthly,15,missing-features
+5e69c4e7ad133831e3f3382a,Jul 13 '21,Pro8 v1 - Yearly,144,too-expensive
+5e6b447cfc0ff017a95a5780,Aug 25 '21,Pro8 v1 - Yearly,144,missing-features
+5e6bf6235456a039a07b8bda,Oct 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e6e73c055ee34c326137e0a,Aug 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5e6ff7673d3d327a6d558206,Oct 30 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,bugs
+5e6ff7673d3d327a6d558206,Sep 20 '21,Pro8 v1 - Monthly,15,bugs
+5e724686b1fcc4efcf47e856,Aug 23 '21,Pro8 v1 - Monthly,15,too-expensive
+5e74e8ec2b39f06b09cc1c11,Oct 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e78a504a17698861f04419a,Aug 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e790a3f2b39f07693cc1ef2,Sep 06 '21,Small Business v2 - Monthly,99,others
+5e796279334bc64e85117ac4,Nov 29 '21,Pro8 v1 - Monthly,15,too-expensive
+5e7be0d411a1e291695c1eb2,Aug 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e7be0d411a1e291695c1eb2,Dec 01 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5e7c7c834893ebcccd29c219,Nov 06 '21,Pro8 v1 - Monthly,15,others
+5e7c81bcea944a491c207968,Oct 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e7f646bb16a4fe8dbe25b72,Sep 25 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+5e7f84733fa6ab22f65e82b0,Aug 12 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5e80b36f5d81183cec4ec05d,Sep 21 '21,Pro8 v1 - Monthly,15,others
+5e81e048ff386840fb4ab6d8,Sep 14 '21,Pro8 v1 - Monthly,15,others
+5e81f1bbb16a4f0834e25d56,Nov 08 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5e8251ed4d1f459b4c6b4c51,Sep 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e82ac254d1f45fa896b4cb0,Dec 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e831599b7c3e0acc4820290,Oct 02 '21,Pro8 v1 - Monthly,15,others
+5e837fbdce64f8aeffc913c1,Oct 17 '21,Pro8 v1 - Monthly,15,others
+5e837fbdce64f8aeffc913c1,Sep 15 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+5e849fac4b1f2458bcdfdaa4,Dec 25 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5e8b018197a75a43e6e980cf,Sep 19 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5e8b20880d6dd6852daf0f44,Oct 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e8b9c91556b14ebbc80fbbb,Sep 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e8d8bb39df915c767012c15,Oct 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e8f55c12a90278487330a12,Jul 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5e91cad8c0929418659d2647,Dec 24 '21,Small Business v2 - Yearly,">= 1,000",too-expensive
+5e92c6959ed1a553cda9eff5,Aug 30 '21,Pro8 v1 - Monthly,15,bugs
+5e943afb4040cda90a89a8c4,Aug 11 '21,Pro8 v1 - Monthly,15,bugs
+5e9547d82a90275d07332a04,Aug 27 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e95f7d14a59fc501cd41861,Dec 29 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5e965cd1cc5ae38e5bec32de,Nov 29 '21,Pro8 v1 - Monthly,15,missing-features
+5e973b1cf2cfeff5cbd9656b,Sep 07 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5e99c022435eff088e50e64e,Oct 01 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5e9a1717435eff791950e7d1,Aug 12 '21,Pro8 v1 - Monthly,15,others
+5e9d9be8fab38d63cb68a689,Nov 27 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5e9dc0348083e737b2d00839,Oct 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5e9dd3d578ba744892c6a711,Jul 13 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5ea25dcfc4ee8b9f3fa06291,Oct 19 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ea4ac94a730f56e7695b6a5,Sep 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ea5a4a39c72db564ece64db,Nov 05 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ea749f8589721082c234c3b,Oct 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ea9bebac153d119d84f596e,Aug 20 '21,Essentials + Team Pack,480,missing-features
+5ea9bebac153d119d84f596e,Aug 20 '21,Pro8 v1 - Yearly,144,missing-features
+5eaa15c938f89b7c2938375e,Nov 08 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5eaae0518e5a81c60058e986,Aug 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5eaaf3059120ee6d260fb95e,Oct 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5eac1192d56b84beaeadcf66,Oct 15 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5ead51f86207a39673ce5740,Dec 14 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5eaf2801b112a1c6a8d44c64,Jul 18 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5eb033f4c384332305715edf,Jul 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5eb04421edd0fa9e51b4dbaf,Jul 12 '21,Pro8 v1 - Monthly,15,missing-features
+5eb1383b6847b91bd7ef416e,Sep 13 '21,publish_premium_m_35_201910,35,not-using-anymore
+5eb1c6c44417ebdcee2f4e7a,Nov 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5eb1d67b5d0fae438b80c6be,Jul 19 '21,Small Business v2 - Monthly,99,not-using-anymore
+5eb2ec69513e2b65247b4337,Sep 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5eb4144eb52609ab843da5df,Sep 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5eb58b03b52609e5c83da9de,Nov 19 '21,Pro8 v1 - Monthly,15,others
+5eb5ff7921dd7971398f5229,Jul 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5eb6a5dbb526096a5c3dac17,Aug 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5eb6bfcd1e31b35d76463024,Sep 16 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5eb6bfcd1e31b35d76463024,Sep 19 '21,Essentials + Team Pack,960,not-using-anymore
+5eb6bfcd1e31b35d76463024,Sep 27 '21,Essentials,30,not-using-anymore
+5eb7106eb5260943593dad00,Sep 03 '21,Pro8 v1 - Monthly,15,too-expensive
+5eb84587c3b6880e338d3223,Dec 24 '21,Pro8 v1 - Monthly,15,missing-features
+5eb87d4c689583aa3c56efb5,Nov 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5eb92b3b791223e67c3e07f5,Jul 12 '21,Pro8 v1 - Monthly,15,too-expensive
+5eb960a3cc80f0665b9704a0,Oct 04 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5eba9abdebdffa61b387f6ab,Jul 22 '21,Pro8 v1 - Yearly,144,too-expensive
+5ebb066c953dc37fc05c8969,Aug 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ebbcebd995fadd7fe0dfa5f,Dec 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ebc44177d7d197e595f747d,Sep 21 '21,Pro8 v1 - Monthly,15,too-expensive
+5ebc6189f1662126c06b694b,Dec 15 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+5ebc6189f1662126c06b694b,Nov 24 '21,Pro8 v1 - Monthly,15,others
+5ebd8d3b5a7be6d7d805a0c8,Jul 17 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ebda455d1a837ec7ed70757,Nov 11 '21,Premium Business v1 - Monthly,65,others
+5ebea9050f5d1a5841a99a03,Aug 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ebefc1a250d802d6ed7f97f,Aug 28 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ec6b29005a7e46e15e21944,Dec 09 '21,Small Business v2 - Yearly,">= 1,000",bugs
+5ec6db34bc474479f941100a,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ec7ebe766ecd1507964e9f4,Jul 23 '21,Pro8 v1 - Monthly,15,others
+5ec867aee7832116cb4dbe1b,Nov 04 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ecbc45f29377a075002e103,Sep 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ece0a945cda37649f6a3a24,Oct 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ece8edf4a5295df51bb7756,Nov 17 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ece96b1c8e2b438862de476,Oct 02 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+5ecea0d4c2620948870a4b8d,Nov 23 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ecf858fd974660c7b79e456,Sep 10 '21,Pro8 v1 - Monthly,15,too-expensive
+5ed01d059e9498cfabe818df,Oct 11 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5ed01d059e9498cfabe818df,Sep 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ed02005d97466162d79e61e,Aug 02 '21,Pro8 v1 - Monthly,15,bugs
+5ed0f3b99e9498b92be81aa6,Dec 25 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ed0f6911423dd86a09e7b46,Sep 29 '21,Pro8 v1 - Monthly,15,too-expensive
+5ed13a651423dd64099e7c0d,Dec 12 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ed1935b6f8ab51699fcdf60,Jul 04 '21,Buffer Analyze - Full Price 10 Social Channels Annual,480,bugs
+5ed2ae6c1423dd0e729e7eff,Oct 15 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ed2b050a20d16036c830606,Jul 14 '21,Pro8 v1 - Monthly,15,too-expensive
+5ed5425ed97466640479f1fa,Nov 03 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ed5425ed97466640479f1fa,Nov 11 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ed69afe7406da58802c13da,Sep 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ed86a6f234254dab7b7a093,Aug 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ed989ff8ec2433d05999d02,Nov 01 '21,Small Business v2 - Monthly,99,not-using-anymore
+5eda08b561a1605fa209c6f2,Sep 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5eda43f3d8eaa318aa25e3bf,Oct 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5edbc32aa6158d7453fddfd6,Jul 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5edf499b98812d132652c020,Aug 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5edf786a49b2d4a736a74bee,Sep 15 '21,Pro8 v1 - Monthly,15,bugs
+5ee022bd98812d528052c269,Oct 24 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ee116b61fcfc664409ff506,Sep 29 '21,Pro8 v1 - Monthly,15,bugs
+5ee214fe92c651f9eaf93cf3,Sep 24 '21,Pro8 v1 - Yearly,144,too-expensive
+5ee352b9e1e28a09250d7cac,Oct 25 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ee4ffcb5c5700a0e7875587,Sep 01 '21,Premium Business v1 - Yearly,663,extenuating-circumstances
+5ee52762cf08b73b6b588bbd,Nov 16 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ee66271cf08b75afa588dd3,Jul 30 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ee78f74f18f4be0b82512fa,Jul 20 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5ee78f74f18f4be0b82512fa,Sep 20 '21,Small Business v2 - Monthly,99,not-using-anymore
+5ee7cb63f1529b22c1c6e857,Dec 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ee8200f44aff2097fec2276,Oct 03 '21,Pro8 v1 - Monthly,15,missing-features
+5ee88d41e78416519e7da21e,Aug 29 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ee93f99bb43c26395930877,Jul 14 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5eeaa2952d6b564885ab8795,Oct 18 '21,Pro8 v1 - Monthly,15,missing-features
+5eebc2d0ccb9e15cb05705cf,Jul 14 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5eebefbe3bbfb6d00228320f,Sep 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ef122f02276498b9cb91314,Aug 01 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ef2434f6cc0f5d295b56f83,Aug 23 '21,Pro8 v1 - Monthly,15,too-expensive
+5ef35d761f87d142708930df,Oct 01 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ef38f867ab8a7e4ea6ed3ff,Nov 01 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ef3991e2d382031317c8383,Jul 09 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ef3b6587ab8a725dc6ed478,Nov 15 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5ef3d26c1f87d184b3893217,Nov 02 '21,Buffer Analyze - Full Price 10 Social Channels Annual,480,missing-features
+5ef3df1f2d382085967c8429,Jul 23 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ef4c9ffcb91067d7b0f8277,Jul 08 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5ef5072172760864b6fb1675,Jul 09 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5ef6498b91d0a94ea44fa67d,Nov 02 '21,Premium Business v1 - Monthly,65,missing-features
+5efa33f036835b400c1ffb45,Aug 14 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5efa3d8aac795d6adcc946b1,Jul 10 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5efcc907bc48527bef4791f2,Nov 17 '21,Pro8 v1 - Monthly,15,too-expensive
+5efcf7eb42b1ea13567409a0,Dec 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5efdcc470937d63e6d189b50,Aug 03 '21,Pro8 v1 - Monthly,15,too-expensive
+5efe019f3de4d11b6121b611,Jul 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5efeaedbd7c33b7848dc20c6,Aug 15 '21,Pro8 v1 - Monthly,15,missing-features
+5eff8a7eb1c5a73ee5477330,Jul 11 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f01115bd7c33b3d0adc24df,Dec 21 '21,Premium Business v1 - Monthly,65,too-expensive
+5f01d8d1d7c33b5ec6dc260b,Jul 19 '21,Pro8 v1 - Monthly,15,missing-features
+5f01e2f1de50da12c8dbb88a,Oct 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f01fd4cde50da8f31dbb8c4,Jul 20 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f021241b1c5a720a64776e0,Jul 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f02137502c33df63f107425,Sep 20 '21,Pro8 v1 - Monthly,15,others
+5f038ba9dce58c153488621b,Jul 20 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f044f31bc4852332f47a076,Oct 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f04b97db1c5a7258d477d49,Oct 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f05f92299c98902018e8c39,Aug 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f064803397480777a54a091,Jul 24 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f064c205920de1e042391dd,Aug 04 '21,Pro8 v1 - Yearly,144,others
+5f0694b1514c3e875ce7d606,Oct 28 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f06d3f9c0a87a99429d5441,Aug 10 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5f074a981d42d9565216ab02,Jul 26 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f0760452a8e54afac44662f,Sep 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f07bcff895ab450ce404255,Oct 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f08475140535cb824bc9906,Aug 31 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5f0861681ff1bc33dfbdafd6,Jul 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f0ad6062a8e54024f446c01,Jul 13 '21,Pro8 v1 - Yearly,144,too-expensive
+5f0c2ac040535c70e4bc9f87,Jul 28 '21,Small Business v2 - Monthly,99,not-using-anymore
+5f0c4d0a301c4fda8e36a3cc,Nov 24 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f0c566e1d171553b95fdcf2,Aug 18 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f0c84951ff1bc5e23bdb71b,Aug 16 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5f0c888c8fb3091fd9d04b27,Oct 26 '21,Small Business v2 - Yearly,">= 1,000",too-expensive
+5f0ca64c1d1715482f5fddb4,Aug 27 '21,publish_premium_m_35_201910,35,missing-features
+5f0e8467895ab4a85d404f57,Oct 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f0f06e91d171581095fe33d,Aug 20 '21,Pro8 v1 - Monthly,15,too-expensive
+5f105c7b1d42d9728316bcda,Aug 23 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f1075f73dc5ecb207af2a97,Oct 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f119c1ab005791ac3fd1566,Sep 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f11a7bf3dc5ec030aaf2d20,Jul 31 '21,Pro8 v1 - Yearly,144,bugs
+5f11c7411d42d92fc816bfce,Jul 08 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5f11c7411d42d92fc816bfce,Oct 07 '21,Essentials + Team Pack,24,too-expensive
+5f11ce451ff1bcd7b2bdc2a4,Aug 04 '21,Pro8 v1 - Yearly,144,missing-features
+5f125b392a8e540a85447c23,Aug 15 '21,Premium Business v1 - Monthly,65,others
+5f135cb73dc5ec24f0af3000,Aug 18 '21,Pro8 v1 - Yearly,144,others
+5f153223895ab48725405bb6,Oct 24 '21,Small Business v2 - Monthly,99,not-using-anymore
+5f1598ccb00579fe93fd1c5f,Oct 03 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5f15b2754146024569d1198c,Aug 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f15e642414602c534d11a47,Nov 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f160188b73dcc0ff4795dc8,Sep 22 '21,Pro8 v1 - Monthly,15,others
+5f160a2b6be2ae08e1b91f7a,Oct 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f160f449a4a2a1d0e9a3a45,Aug 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f160f449a4a2a1d0e9a3a45,Sep 14 '21,Essentials + Team Pack,24,extenuating-circumstances
+5f171c49ca1dc52641fb7114,Jul 04 '21,publish_premium_m_35_201910,35,others
+5f171c49ca1dc52641fb7114,Sep 17 '21,Essentials,12,others
+5f1759425ba9fa496dd945df,Oct 03 '21,Pro8 v1 - Monthly,15,others
+5f199a8a414602737ed1247a,Aug 06 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f1aacc2ca1dc59c34fb78c7,Aug 06 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f1aacc2ca1dc59c34fb78c7,Sep 07 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+5f1c5747ca1dc55781fb7b7c,Aug 28 '21,Pro8 v1 - Monthly,15,missing-features
+5f1df34c69449fda42b30742,Jul 03 '21,Pro8 v1 - Monthly,15,too-expensive
+5f1f379a69449f1e33b309e5,Aug 02 '21,publish_premium_m_35_201910,35,not-using-anymore
+5f1f4bfd4146022032d12ee5,Sep 01 '21,Pro8 v1 - Yearly,144,others
+5f21bd175d08ef3ba43429e6,Jul 29 '21,Pro8 v1 - Monthly,15,others
+5f229a287a4ee20ee8d75e89,Sep 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f23f3c1fd7b6f08ac83467d,Oct 31 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f243686fd7b6f4f19834708,Aug 16 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f26d3cead83077ac185c82d,Sep 24 '21,Premium Business v1 - Monthly,65,missing-features
+5f2703b4da9aa412f65ee281,Aug 02 '21,Pro8 v1 - Monthly,15,others
+5f2703b4da9aa412f65ee281,Jul 05 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5f270b67ec7ea7562730b876,Aug 15 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f2802e1ad83074be285ca45,Sep 17 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f2864d224941e8084c08b1f,Aug 05 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f2890787dd8adbc8461c935,Oct 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f28cfdaad8307d50785cc0d,Oct 31 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+5f2915d2e624d26284a92cd9,Jul 29 '21,Pro8 v1 - Yearly,144,missing-features
+5f291b41ad83070d7185cc7f,Oct 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f2a88c924941e352ac08f91,Jul 18 '21,publish_premium_m_35_201910,35,bugs
+5f2a89e5ad8307452985cf7e,Sep 08 '21,Pro8 v1 - Yearly,144,others
+5f2bd7b2ec7ea73b8f30c22c,Aug 17 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f2c1a68ec7ea777c530c2c7,Sep 06 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5f2c3ac2ec7ea700e630c32c,Aug 24 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5f2d8ca1e624d26f2ba93628,Aug 28 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f2dabf6da9aa421c25ef04e,Aug 24 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5f2ff5803a1bc1a15348c3f1,Aug 22 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f30f500e624d205e4a93b1f,Sep 21 '21,Pro8 v1 - Yearly,144,bugs
+5f3116c83a1bc1520e48c605,Jul 14 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+5f31408a7d764f768d83633f,Aug 31 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f31deb67d764fd17d8364dc,Aug 11 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5f3268e71c71506007691683,Sep 01 '21,Premium Business v1 - Yearly,663,missing-features
+5f35cae5612fca48d63c90d8,Sep 12 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f375ef51c7150418269211b,Sep 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f38c6ed81906bd4bb9c9c49,Aug 19 '21,Pro8 v1 - Yearly,144,missing-features
+5f3966ac1c715010b269240c,Sep 15 '21,Premium Business v1 - Yearly,663,extenuating-circumstances
+5f39a403840fea2e5794113a,Aug 28 '21,Pro8 v1 - Monthly,15,others
+5f3a84431c7150ac5a69262e,Oct 22 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5f3af33f840feae4c9941457,Sep 21 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f3b166a438d3e5116fcffdb,Aug 07 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5f3bace146f1a69fc70cda01,Sep 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f3c779e6047c191b0ed7a2e,Aug 20 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f3d0c17dac61953c3d1346a,Sep 27 '21,publish_premium_y_336_201910,336,not-using-anymore
+5f3edc08a81284e7f3c52111,Sep 06 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f3eec872fbb80b0a9356020,Jul 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f3ef3d3a81284f74ac52145,Aug 20 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f3f2ce0f22706411b53aa54,Sep 26 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f3f8bc46d5b000120dd814c,Sep 21 '21,Pro8 v1 - Monthly,15,missing-features
+5f416141a81284144ec52557,Aug 28 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5f43771c0b2b9755760c6bf0,Sep 07 '21,Pro8 v1 - Yearly,144,bugs
+5f439f35d927d75ef2591dbb,Aug 22 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5f44aac20b2b97b9360c6e9c,Aug 26 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5f453c63a81284b8cac52c8a,Sep 01 '21,Pro8 v1 - Yearly,144,missing-features
+5f458861a812844687c52d3a,Dec 29 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f46c6b3a82d2519bc4759f4,Sep 08 '21,Pro8 v1 - Yearly,144,too-expensive
+5f46d8e11f22f051a0829873,Jul 09 '21,Pro8 v1 - Monthly,15,too-expensive
+5f46d8e11f22f051a0829873,Oct 09 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5f4704b31f22f022788298cf,Sep 19 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5f47606bba19cc835e282c0c,Sep 08 '21,Pro8 v1 - Monthly,15,bugs
+5f47b500be3ba6f64e6d2e33,Sep 17 '21,Pro8 v1 - Yearly,144,missing-features
+5f482e72be3ba60b186d2f54,Sep 10 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5f4969bc7e47eaa266adfb47,Dec 25 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f4abf7891dbb2438f30e45d,Aug 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f4aeed48d87200ffadfb375,Jul 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f4c6ec0eaf3fa318a489744,Sep 14 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f4cbe787e47ea726eae0001,Sep 14 '21,Pro8 v1 - Monthly,15,missing-features
+5f4cc690d8eafac0bbb4dc05,Sep 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f4d2b93ff53bb40fd7a5b59,Sep 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f4d37e48d8720bc16dfb72f,Aug 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f4d5ccbeaf3fa37d748998d,Aug 30 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f4d679891dbb20fe430e8e2,Oct 09 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5f4e26a58d872050ccdfb8fc,Sep 15 '21,Small Business v2 - Monthly,99,not-using-anymore
+5f4eb11cff53bbf7da7a5f08,Sep 19 '21,Pro8 v1 - Monthly,15,others
+5f4f12c4d2b08d9dbbb5a202,Jul 30 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5f4f13c3daab80749e2e496e,Aug 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f506f66d8eafa9cefb4e474,Sep 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f55e82eeaf3fa5f1148a94f,Jul 07 '21,Pro8 v1 - Monthly,15,others
+5f567b2bdbae032c1f610258,Oct 24 '21,Pro8 v1 - Monthly,15,others
+5f5691e0eaf3fa3f2448aace,Sep 29 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f56c004daab8082d22e5730,Sep 21 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5f574eedeaf3fa519148ac12,Sep 08 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5f576675dbae0324af610425,Sep 22 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f578dea7e47eacb44ae14cc,Oct 05 '21,Small Business v2 - Monthly,99,not-using-anymore
+5f57b875dbae030f38610532,Nov 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f57f8a6d8eafa7e05b4f1fb,Oct 08 '21,Premium Business v1 - Monthly,65,bugs
+5f5a1dbddaab8063522e5df6,Dec 12 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5f5a1dbddaab8063522e5df6,Jul 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5f5b71f9f9f35b4862f64f3b,Sep 29 '21,Pro8 v1 - Yearly,144,missing-features
+5f5bb36bce77c75d923e7391,Sep 25 '21,Pro8 v1 - Monthly,15,others
+5f5c0864431bfb70b4313a43,Aug 25 '21,Small Business v2 - Monthly,99,not-using-anymore
+5f5c0864431bfb70b4313a43,Jul 25 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5f5c44eb09d12f474bf73b55,Oct 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f5d013a94028f86066087bc,Sep 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f5d70af8221e20020674708,Sep 27 '21,Premium Business v1 - Yearly,663,too-expensive
+5f5e483582a7352eb94e5cb6,Jul 21 '21,Premium Business v1 - Monthly,65,too-expensive
+5f5e483582a7352eb94e5cb6,Sep 22 '21,Essentials,24,too-expensive
+5f5e84c28221e2c34d67489d,Aug 02 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5f5e84c28221e2c34d67489d,Jul 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f5eb95c431bfbc9d5313d98,Dec 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f5ee686612b35bfe7ddd9ba,Sep 26 '21,Pro8 v1 - Monthly,15,others
+5f5f40918221e216ce6749c1,Sep 24 '21,Pro8 v1 - Yearly,144,bugs
+5f5fd1bcc3f33a9df7d9640f,Aug 30 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f5fd7b8c3f33a6d18d9641e,Sep 28 '21,Pro8 v1 - Yearly,144,too-expensive
+5f60b123c3f33a7eb3d965d1,Jul 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f610af199cf49e98301139e,Sep 29 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f611bc240221111fa6446c2,Sep 15 '21,Pro8 v1 - Yearly,144,others
+5f621a15309cda2cb1bbb9ee,Sep 28 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f62278820458e02d2b9e59b,Sep 18 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5f63af93fa6994b784181d72,Oct 02 '21,Pro8 v1 - Yearly,144,too-expensive
+5f63fd19c8a6446c964cba60,Aug 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f647788748c963e97d0b44d,Oct 01 '21,Pro8 v1 - Yearly,144,bugs
+5f6559ed2328918941677ef6,Nov 13 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5f6671ad7eed6073416ed70f,Dec 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f67595a822ffb8a011963d6,Oct 04 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f68e4d92f145098a6b6a66e,Aug 03 '21,publish_premium_m_35_201910,35,too-expensive
+5f68e4d92f145098a6b6a66e,Aug 05 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5f69f8938dbf9f9d97cacd43,Jul 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f6a19a30f15fc685da999da,Oct 05 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f6a39fb8ff7cce6e76b6168,Dec 22 '21,Pro8 v1 - Yearly,144,bugs
+5f6b406cdba794003ed72ec4,Sep 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f6b41b1b4df6bbfe5a19d94,Dec 04 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f6bccf9e0b6bf0074a1cae0,Sep 23 '21,Pro8 v1 - Yearly,144,missing-features
+5f6d4c842d0437506ccbfa1f,Oct 06 '21,Pro8 v1 - Monthly,15,others
+5f6dba907d079a4370064c66,Jul 09 '21,publish_premium_m_35_201910,35,too-expensive
+5f7044c682a0259858c1a851,Sep 28 '21,Pro8 v1 - Yearly,144,missing-features
+5f71a5595cfe867402035e32,Aug 28 '21,Pro8 v1 - Monthly,15,bugs
+5f720a647d079a0862065334,Jul 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f7224b37d079a77a506537f,Jul 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f728604f1acad5f7bd30944,Aug 29 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5f7383a82d0437276ccc053e,Oct 06 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f7494b635ad355ecd5ba22d,Sep 30 '21,Pro8 v1 - Yearly,144,missing-features
+5f74d5805e2910a1101fae46,Oct 14 '21,Pro8 v1 - Monthly,15,too-expensive
+5f750eb329ff2a514c03052a,Aug 29 '21,Pro8 v1 - Monthly,15,others
+5f75ec3922d961823746810a,Sep 15 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5f75ec3922d961823746810a,Sep 15 '21,publish_premium_m_35_201910,35,not-using-anymore
+5f76ade04c1da244401e258b,Jul 15 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f77767e213f945e9ad2d21e,Oct 13 '21,Small Business v2 - Yearly,">= 1,000",extenuating-circumstances
+5f7968f53cf3352a7718b97e,Oct 17 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f798393ed10940fe42da4e7,Jul 07 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5f79e887213f946b1ed2d53f,Aug 21 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f7b45222bf7a45b7906f57a,Oct 29 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f7b46b32bf7a4237306f57f,Aug 23 '21,Small Business v2 - Monthly,99,too-expensive
+5f7bf9b88d692c0ff57432fb,Sep 02 '21,Pro8 v1 - Monthly,15,others
+5f7cd5a0bee89b659732d692,Nov 21 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f7e1326f39c74059a3fc48d,Dec 07 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5f7f8209d1017c8473fcec38,Oct 21 '21,Premium Business v1 - Yearly,663,not-using-anymore
+5f8048026db370b371acc1fb,Oct 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f80f33265fc97049eeaecc8,Nov 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f81969ed1017c09a9fcef28,Dec 10 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+5f824c5ed1017c3ec3fceffa,Nov 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f83bde6e688350936393668,Dec 10 '21,Premium Business v1 - Yearly,663,extenuating-circumstances
+5f83e07de688350ada393690,Oct 25 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5f8485aa4827f0b41c94f797,Nov 28 '21,Pro8 v1 - Monthly,15,others
+5f84fedd0c114c20fd39e0ff,Oct 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f858d7c7534aa14706af746,Oct 20 '21,Pro8 v1 - Monthly,15,others
+5f8607e62024b00caa6307b7,Aug 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f872567ceaa410aaf2ec560,Nov 18 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f8753e24e8af335e0d06006,Jul 27 '21,Pro8 v1 - Monthly,15,bugs
+5f88ecf2ff1b55ca6786e133,Aug 13 '21,Pro8 v1 - Monthly,15,missing-features
+5f890fc900658c2e7bfcfedb,Oct 30 '21,Premium Business v1 - Yearly,663,extenuating-circumstances
+5f89a99d2e51910121ca85f8,Dec 13 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5f89ceb132a06f93b085a534,Sep 30 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+5f8a59cdf4aabd3320b4380d,Sep 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f8af2537212cd092ba2cf07,Oct 17 '21,publish_premium_y_336_201910,336,not-using-anymore
+5f8b28e87212cd381ca2cf4f,Oct 22 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f8cd5d032a06f5f7785a8e4,Aug 10 '21,Pro8 v1 - Monthly,15,too-expensive
+5f8dd3aa00658c3a6cfd0575,Dec 02 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5f8dd50f7212cdc070a2d31d,Aug 16 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5f8eb95d8430e5ddd8bd1aff,Dec 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f8f1c84ba8154575dbc73c1,Oct 21 '21,publish_premium_y_336_201910,336,not-using-anymore
+5f8fd9f0c54a5f60c46ec19c,Nov 04 '21,publish_premium_y_336_201910,336,extenuating-circumstances
+5f908563647f5d88ea263514,Jul 25 '21,Pro8 v1 - Monthly,15,missing-features
+5f91c7de854a0fe4be09453f,Nov 04 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5f92dd38647f5d3d6b2638ba,Oct 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f931e14854a0f2f02094743,Nov 30 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5f934335b9c9cf98324a39c8,Nov 05 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f951630ba81542802bc7c83,Sep 14 '21,Pro8 v1 - Monthly,15,missing-features
+5f96017dca42258055b9b1d3,Aug 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f9698cc261b481d86cb6702,Nov 19 '21,Premium Business v1 - Yearly,663,too-expensive
+5f96a604647f5d89a3263d4e,Aug 09 '21,Pro8 v1 - Monthly,15,others
+5f97f7fb025bdbd1bb40089c,Oct 27 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f9813cc22bd4638b68cbb11,Nov 05 '21,Pro8 v1 - Monthly,15,too-expensive
+5f9989dd023ad1499db0c81f,Dec 31 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+5f99996e27ea49f8060484bb,Nov 17 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f9a05f05eeae905e77201ad,Jul 29 '21,Pro8 v1 - Monthly,15,too-expensive
+5f9aa0593e631e62a3c01052,Oct 29 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5f9ad840e76a4e040bf715c5,Nov 02 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+5f9afdf38306bd4532aa7088,Aug 02 '21,Pro8 v1 - Monthly,15,missing-features
+5f9d8cc76e66b2b5fd350797,Sep 30 '21,Pro8 v1 - Monthly,15,missing-features
+5f9d92d14217cbb66f4b1173,Sep 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f9f9378e76a4e62e1f71c0b,Sep 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5f9ffbf4871b324c0142697a,Oct 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fa00cc8871b3271884269ac,Nov 16 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fa2a18180d3ce4acd73d814,Sep 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fa2ac5e2b1363befde91a8e,Nov 17 '21,Pro8 v1 - Yearly,144,too-expensive
+5fa2fe27fba53b9bd5711efe,Jul 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fa311b96070b8683c91ed04,Aug 15 '21,Small Business v2 - Monthly,99,too-expensive
+5fa33e522b13639962e91bd2,Aug 06 '21,Premium Business v1 - Monthly,65,bugs
+5fa3c8b2be4b7d54a40453c6,Aug 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fa44f1a25393c6934e26dd5,Sep 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fa8153961c99f14999edb30,Aug 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fa862da61c99ff2299edba6,Dec 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fa868dfbc30d42854b6377b,Sep 19 '21,Pro8 v1 - Monthly,15,others
+5fa94782aafe4c7c67d326a4,Nov 09 '21,Pro8 v1 - Yearly,144,bugs
+5fa96f44f52f51ddcd8b8fee,Jul 19 '21,Premium Business v1 - Monthly,65,too-expensive
+5fa9cb8abfc98b01a54a7436,Sep 21 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5faa59f612aab329551c1941,Oct 18 '21,Small Business v2 - Monthly,99,bugs
+5faa59f612aab329551c1941,Oct 31 '21,Buffer Analyze - Full Price 10 Social Channels,50,bugs
+5faac4f5f6208a807a391d13,Nov 25 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5faafd381e573a127c627591,Jul 30 '21,Pro8 v1 - Monthly,15,others
+5fab196d86f11e281bf03889,Jul 10 '21,Pro8 v1 - Monthly,15,missing-features
+5faba4aed13c7718c686bbb3,Aug 18 '21,Pro8 v1 - Monthly,15,bugs
+5fac0e1adcf4c0dbf264bad5,Nov 10 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5fac0e1adcf4c0dbf264bad5,Nov 11 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fac1619dcf4c0501564baeb,Sep 25 '21,Premium Business v1 - Monthly,65,bugs
+5fad18f4ae998e5572bae412,Nov 12 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fad1b2ca904927873c82d28,Dec 03 '21,Pro8 v1 - Yearly,144,others
+5fadfb1250105a4521462768,Oct 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5faec6493b822fb8300f9c35,Dec 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5faf58e802a7b632c38631bd,Sep 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fb02c65cc0cc175534abb04,Aug 02 '21,Pro8 v1 - Monthly,15,too-expensive
+5fb0501cd0b943369f80adc0,Nov 27 '21,Pro8 v1 - Yearly,144,others
+5fb112f6ae998e14b2bae978,Aug 29 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5fb112f6ae998e14b2bae978,Nov 29 '21,publish_premium_y_336_201910,336,others
+5fb2b27262176de28fa158a5,Jul 24 '21,Premium Business v1 - Monthly,65,missing-features
+5fb2f77319f3e7278e6b719f,Sep 24 '21,Pro8 v1 - Monthly,15,missing-features
+5fb320e411b85e67934ac794,Nov 27 '21,publish_premium_y_336_201910,336,not-using-anymore
+5fb32deccc1aa0a2372ddc4d,Aug 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fb3cfbbdc534767b4c9eecb,Jul 14 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,missing-features
+5fb3d05acb550775b48b9d3b,Nov 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fb40171b847a4f1dbfecdb5,Dec 02 '21,Pro8 v1 - Yearly,144,others
+5fb4f2f5b1faa72638224346,Aug 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fb50f53b1faa7a030224382,Oct 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fb5b368b847a4851ffed1d6,Oct 02 '21,Pro8 v1 - Monthly,15,too-expensive
+5fb61118c6aa778d6ab3d209,Dec 03 '21,Pro8 v1 - Yearly,144,others
+5fb6eae138e7e9d7901010c1,Dec 01 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fb6f7ac8056c18e3d9ad441,Nov 19 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5fb6f7ac8056c18e3d9ad441,Nov 24 '21,Medium Business v2 - Monthly,199,too-expensive
+5fb7190162f049ca8385666d,Nov 20 '21,Pro8 v1 - Yearly,144,missing-features
+5fb728838056c1cf449ad48a,Aug 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fb7f960e8db79febfbddf7b,Jul 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fb8fa41391f5d27144e2396,Dec 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fbac79ac6aa776797b3d9c5,Oct 20 '21,Pro8 v1 - Monthly,15,missing-features
+5fbb6bee35b9b84863bcf6a4,Oct 13 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5fbbea2c147bc531781ff305,Jul 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fbc7db215d7239db8305599,Nov 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fbd3287228510adea04db48,Sep 30 '21,Pro8 v1 - Monthly,15,too-expensive
+5fbdb20f0140697cbfb447ef,Dec 09 '21,Buffer Analyze - Full Price 10 Social Channels,50,bugs
+5fbdb20f0140697cbfb447ef,Oct 09 '21,publish_premium_m_35_201910,35,bugs
+5fbdc7fadfb573881c07ea9d,Dec 14 '21,Premium Business v1 - Yearly,663,not-using-anymore
+5fbe01f922abd258a7737c86,Aug 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5fbeeb0da1985f24a5634e3b,Dec 21 '21,Pro8 v1 - Yearly,144,others
+5fc263dd70107bc8a2b1a010,Nov 09 '21,Pro8 v1 - Monthly,15,too-expensive
+5fc2e288989c5b161b4f8b20,Dec 12 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fc4ad35bdae87b19ce60423,Dec 13 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fc537c504e12f8e15d33d33,Aug 15 '21,Pro8 v1 - Monthly,15,missing-features
+5fc5edb77ad63967e5839f31,Dec 15 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fc661c01c381bc9dfe9ef32,Nov 02 '21,Small Business v2 - Monthly,99,not-using-anymore
+5fc6673990b26208ce730cbd,Oct 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fc68dfa93211c20e3a40f41,Nov 15 '21,Premium Business v1 - Monthly,65,not-using-anymore
+5fc752dd4d6ffb4a7770ae52,Oct 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fc7ba97482bf1048f9b8a8b,Dec 02 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5fc8b4cd5c36d18799a10ef7,Sep 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fc9ed0ff197002c5f55a3d6,Oct 29 '21,Small Business v2 - Monthly,99,not-using-anymore
+5fca6636faff608659c9d144,Nov 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fca83cf1c4eb0e73f7e845e,Jul 30 '21,Pro8 v1 - Monthly,15,others
+5fca97c90ee7e8be3c204be4,Jul 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fcaa167564fdbae2ceb3d48,Dec 18 '21,Pro8 v1 - Yearly,144,extenuating-circumstances
+5fce49c0564fdb85cdeb4226,Oct 01 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+5fce4b08564fdb500feb4229,Aug 05 '21,Pro8 v1 - Monthly,15,too-expensive
+5fce4b08564fdb500feb4229,Sep 05 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5fcf774ce49da15191e38d9b,Dec 29 '21,Buffer Analyze - Pro Plan 8 Social Channels Annual,336,extenuating-circumstances
+5fd10062b7b230604bc61a9a,Oct 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fd13a2660e20530fdd401e3,Dec 23 '21,publish_premium_m_35_201910,35,not-using-anymore
+5fd182515ebdf7ad672080a9,Nov 24 '21,Small Business v2 - Monthly,99,too-expensive
+5fd182515ebdf7ad672080a9,Sep 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5fd1ef25e4100f19e3bd430c,Jul 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fd339f4e624b46cba315992,Aug 01 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+5fd3dd313340b84ab2679d31,Oct 25 '21,Small Business v2 - Monthly,99,others
+5fd5339dd94fb893326b2bbe,Nov 30 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5fd58f1c77bb8f7f336e8a98,Sep 29 '21,Pro8 v1 - Monthly,15,too-expensive
+5fd6b66a4901ac7ee1b6d0de,Aug 18 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+5fd6b66a4901ac7ee1b6d0de,Nov 13 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+5fd6b66a4901ac7ee1b6d0de,Oct 20 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5fd890152e96c01a5d32ec92,Aug 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fdb0c1eba5fdc5a6ecdd003,Oct 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fdb78723c6bac2cdebefd2b,Dec 18 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fdbd120387f0434ff512be3,Dec 23 '21,Buffer Analyze - Pro Plan 8 Social Channels Annual,336,not-using-anymore
+5fdbd120387f0434ff512be3,Dec 31 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+5fdc01be5743548cfd600be9,Oct 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fdcc2a9b5951403233c0dae,Aug 21 '21,Pro8 v1 - Monthly,15,bugs
+5fe1ac7edb29f0c5bcba8eba,Oct 22 '21,Pro8 v1 - Monthly,15,others
+5fe232ef34041371bd803699,Aug 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fe2780e42ed728012d4e3b8,Aug 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5fe28b5cf1367461ebf0080d,Aug 06 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5fe4a20c97a2531806f99425,Dec 24 '21,Pro8 v1 - Yearly,144,not-using-anymore
+5fe85bdac9bd9cd023773962,Dec 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fe8fc10db58d64b7f4eebb1,Aug 05 '21,Pro8 v1 - Monthly,15,too-expensive
+5fe93bf6c9bd9c4e31773a7f,Aug 11 '21,Pro8 v1 - Monthly,15,missing-features
+5fe9cb27a3db4b590a8a919f,Sep 28 '21,publish_premium_m_35_201910,35,extenuating-circumstances
+5fea177dc9bd9c274b773bd7,Jul 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5fea1ad07f29e91a6b98e6d1,Aug 07 '21,Pro8 v1 - Monthly,15,missing-features
+5fea1ad07f29e91a6b98e6d1,Aug 29 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,missing-features
+5fea594a97a2535793f99a24,Jul 06 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+5fea594a97a2535793f99a24,Jul 20 '21,publish_premium_m_35_201910,35,others
+5feaa1d82d871c311587ed4b,Oct 17 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5febb8582d871cfec487ef0e,Aug 04 '21,Small Business v2 - Monthly,99,too-expensive
+5ff0b00797a2531a07f9a20d,Jul 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ff1f8122d871c347a87f73e,Aug 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ff392e0317ec64529a91918,Sep 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ff41a1b35dcbd5cb2233a3b,Jul 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ff47be465a81b95d4268a4a,Jul 19 '21,Pro8 v1 - Monthly,15,missing-features
+5ff4dc36ddbbdb110b5e9b0b,Sep 09 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+5ff5b209cd7daae030587581,Nov 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+5ff63f42550d2c2c55769fec,Sep 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ff660daf260e9e653b47b24,Oct 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ff660daf260e9e653b47b24,Sep 06 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ff6eb61550d2c3ea576a0e7,Sep 21 '21,Premium Business v1 - Monthly,65,bugs
+5ff8a213b5274f28bfd03ffa,Oct 23 '21,Pro8 v1 - Monthly,15,others
+5ffa08dfbf778b83a6851747,Sep 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ffa8596a7cad53593db579f,Oct 23 '21,Pro8 v1 - Monthly,15,others
+5ffad5d7a7cad536d3db57e7,Sep 15 '21,Pro8 v1 - Monthly,15,others
+5ffb64675a48f73ef616664c,Aug 08 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+5ffb64675a48f73ef616664c,Jul 12 '21,Pro8 v1 - Monthly,15,too-expensive
+5ffc4e42a44bb0b69d4f9632,Sep 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ffc5e3ef9ad62bce56cb234,Dec 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ffc8ce70fe3b4c7a1d7c91e,Aug 05 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+5ffc8ce70fe3b4c7a1d7c91e,Sep 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ffcce78fde4507df3fc9475,Jul 13 '21,Small Business v2 - Monthly,99,too-expensive
+5ffcfb574c27216570f28a31,Sep 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+5ffdb035ca1d4b7ef676ac51,Aug 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6000470c999d37fbc438f7a0,Sep 29 '21,Pro8 v1 - Monthly,15,too-expensive
+6000b32e865fc11ade6f89e1,Sep 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60014ca0950f425227f8277e,Nov 18 '21,Pro8 v1 - Monthly,15,others
+6001bcdd0f403e733d417cf2,Nov 29 '21,Pro8 v1 - Monthly,15,missing-features
+6001e106c339a7b4df37cf31,Oct 06 '21,publish_premium_m_35_201910,35,others
+6001fd95fb3615f5b638a90e,Oct 24 '21,Premium Business v1 - Monthly,65,not-using-anymore
+6002f3fc0d3a0c45d665d7a3,Aug 24 '21,Pro8 v1 - Monthly,15,too-expensive
+60032da50d3a0c3b3065d7c9,Nov 30 '21,Small Business v2 - Monthly,99,too-expensive
+6005d8366ce3e662fc997807,Dec 05 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+600641893af67d8ceb8212f5,Sep 18 '21,Pro8 v1 - Monthly,15,too-expensive
+600687e755c7ac68ba737f4e,Oct 01 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6006be95576b5d71774e8ca0,Sep 03 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6007abdba2b512ec7d8182e1,Sep 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60088b8dc4438f487169e79e,Jul 17 '21,Pro8 v1 - Monthly,15,too-expensive
+6008a54070e0a3d3cb135486,Nov 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6009471160670c4314446dab,Sep 04 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+6009471160670c4314446dab,Sep 05 '21,Premium Business v1 - Monthly,65,not-using-anymore
+600991654673e534ffb66fd9,Sep 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6009fa85df0fc720c5887190,Aug 23 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+6009fa85df0fc720c5887190,Aug 23 '21,Pro8 v1 - Monthly,15,too-expensive
+600b0501fd3796dca66615f7,Oct 05 '21,Pro8 v1 - Monthly,15,others
+600c06c9276fe2ca59f5716c,Jul 04 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+600cb5ab61eccaef6e7f6618,Dec 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+600cd1033b96c13b3261822f,Oct 03 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+600cd1033b96c13b3261822f,Sep 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+600ec760a83aca292e5ce4d8,Sep 25 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+600f51402e6f9f631315fdca,Jul 08 '21,Pro8 v1 - Monthly,15,missing-features
+60104e48891dddd2b49242dc,Aug 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60113de08f90239bf7687eba,Aug 10 '21,Premium Business v1 - Monthly,65,too-expensive
+601161b85e445d7484c54c7a,Dec 11 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60121407abf0ec74e701a965,Sep 10 '21,publish_premium_m_35_201910,35,extenuating-circumstances
+60124665ffa9db12c7c02e42,Oct 14 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+601291eb1cc6940b522d522f,Aug 11 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6012b9f3cf31a2781be93f6d,Oct 15 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+6012b9f3cf31a2781be93f6d,Oct 15 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+6012bfc69cd7d02d82f479c9,Nov 07 '21,Premium Business v1 - Monthly,65,others
+6012c73da6153f45d2d7abaa,Oct 12 '21,Pro8 v1 - Monthly,15,bugs
+60132f0f64e4d8a9047cfea4,Sep 19 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,bugs
+60149dbaee489a6b372bdc74,Nov 03 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+60149dbaee489a6b372bdc74,Sep 01 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+6016e22a99728625417e6502,Aug 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6017e2f0d3a4ac6c6afdbc9d,Aug 14 '21,Pro8 v1 - Monthly,15,others
+60181867c45f317022f57476,Aug 06 '21,Premium Business v1 - Monthly,65,too-expensive
+601824a7d7cbc30bbf7ccdfa,Jul 30 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60193339ee4e9e422da27e92,Aug 19 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+60193339ee4e9e422da27e92,Sep 06 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60199568720b7cd73c7db2b7,Sep 21 '21,Pro8 v1 - Monthly,15,others
+601afa6d71a06646db695205,Oct 23 '21,Pro8 v1 - Monthly,15,bugs
+601b0410359b474d7fe02bd6,Sep 01 '21,Pro8 v1 - Monthly,15,bugs
+601b5e7e30743451cdd3f852,Jul 04 '21,Pro8 v1 - Monthly,15,too-expensive
+601b5e7e30743451cdd3f852,Sep 29 '21,Pro8 v1 - Monthly,15,too-expensive
+601bddc70bbb322b0544ebc0,Sep 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+601c2151d21d5352d518d76a,Dec 19 '21,Pro8 v1 - Monthly,15,others
+601c8046977e815208c9d122,Oct 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+601d77d632bed44e609cedf3,Sep 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+601e61d2430dc084eae894f5,Sep 23 '21,Pro8 v1 - Monthly,15,too-expensive
+601ef24a41f25b92b0751a5d,Sep 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+601f4c231f61284c4c32d560,Sep 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+601fad84977e81b86cc9d4ba,Aug 31 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+60204f06dc9d45b805785b3b,Jul 07 '21,Pro8 v1 - Monthly,15,too-expensive
+60208f9ed6d9741766629eb6,Sep 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60214603673a3e12c96ccb24,Aug 01 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+60218df47b9f1f2a12351d52,Jul 28 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60221a19ca36b0600086fdfc,Aug 23 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+6022552d77180f5b448038b4,Jul 31 '21,Pro8 v1 - Monthly,15,too-expensive
+602263ef2b37ee58d986daea,Aug 25 '21,Pro8 v1 - Monthly,15,too-expensive
+6022b295fabb136d9ef20ff0,Aug 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6022b3aa475f1f1e5eaa318d,Oct 10 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+6022b3aa475f1f1e5eaa318d,Oct 24 '21,Pro8 v1 - Monthly,15,too-expensive
+6022b8e12add2d82eb30b39a,Aug 06 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+6022b8e12add2d82eb30b39a,Oct 23 '21,publish_premium_m_35_201910,35,not-using-anymore
+6022de96aa06f63ecc230ef4,Sep 23 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6022ea42fabb1341f4f2106e,Dec 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6023203cb2711a2c142afde4,Jul 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6023203cb2711a2c142afde4,Jul 18 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+602345554785d0703cdbbb60,Jul 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6023a08bb8cf4a7f407a3fe6,Aug 21 '21,Pro8 v1 - Monthly,15,others
+6023c855811770733bbaa19e,Sep 26 '21,Pro8 v1 - Monthly,15,too-expensive
+6023f28dd1b5f457de6fc6be,Oct 24 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60246b618e6442133854ee6b,Aug 24 '21,Premium Business v1 - Monthly,65,too-expensive
+60255f02b7687d5fde870aa9,Nov 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6026767383a8b4771a169ef3,Sep 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60268dee6005686c3663024a,Oct 13 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6026c5c66a0e9963fca1302f,Sep 10 '21,Pro8 v1 - Monthly,15,too-expensive
+6026d1263becb8601b22646b,Aug 16 '21,Small Business v2 - Monthly,99,others
+60294938c4e5848f48f1c0f2,Dec 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6029f32e4f351014532087a2,Sep 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+602ad4c30ebdd72457b7a36e,Aug 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+602af77eb9b41576919a299d,Sep 02 '21,Pro8 v1 - Monthly,15,too-expensive
+602bc8ea53a87b0280334d76,Sep 04 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+602c0637572b279372bf1d09,Sep 02 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,missing-features
+602c311b9f502a911212c395,Sep 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+602d4721f43f1bc014c79ddf,Aug 01 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+602d9c41cf8bc77a42c743a3,Sep 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+602eb15cbaf557222e97baac,Oct 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+602f6befae024573bf0c4c75,Nov 24 '21,Medium Business v2 - Monthly,199,not-using-anymore
+602ff7203d4d704e27cdab7c,Jul 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+603011dcd344f250c09dd7f8,Nov 06 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+6030f229c8ff7d474fe34ec0,Aug 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6031da2d31d5c15a3a5975d3,Jul 14 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+60332e91d16362c5c2a562fb,Sep 21 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60338e1361acdb4297dbab45,Oct 27 '21,Pro8 v1 - Monthly,15,others
+6033d0ce89bd40bce5aaf125,Sep 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6033dca357c3f4415ea00c72,Dec 08 '21,Premium Business v1 - Monthly,65,not-using-anymore
+6034c68442fdd8446002ac05,Dec 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6034ca50b1341747a30dd476,Aug 09 '21,Pro8 v1 - Monthly,15,missing-features
+6034cc385b6e6907a0329430,Aug 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6034feeea69a2bffd3e3235f,Aug 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6035781265ca798a406cb346,Jul 15 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+6036b0b0fdb01c9c95b6dfcd,Nov 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6036e00e2396c657ef401a9f,Jul 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+603833cc71d4331d8fc17c66,Jul 08 '21,Small Business v2 - Monthly,99,not-using-anymore
+6038e0e81980fb690d619867,Sep 26 '21,Pro8 v1 - Monthly,15,missing-features
+6038e5117435307b9a272027,Jul 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6039439a6841a87508db428b,Aug 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6039468b52850aea2c9edb28,Jul 26 '21,Pro8 v1 - Monthly,15,missing-features
+60394855c970b989aa8c9492,Aug 17 '21,Pro8 v1 - Yearly,144,not-using-anymore
+603a6b2d35cb11cdc93f7391,Jul 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+603c05c93f809b83f2711113,Jul 20 '21,Pro8 v1 - Monthly,15,missing-features
+603c2686b34bcc50f9a05f2e,Sep 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+603cc93998c87d14785dd625,Sep 23 '21,Premium Business v1 - Monthly,65,not-using-anymore
+603d554d6880a9754d87a438,Jul 16 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+603e607b557a8910e3a37003,Oct 15 '21,Pro8 v1 - Monthly,15,too-expensive
+603eb78f804ce63d2af7e117,Aug 26 '21,Pro8 v1 - Monthly,15,too-expensive
+603eb78f804ce63d2af7e117,Jul 23 '21,Pro8 v1 - Monthly,15,too-expensive
+603ec877244eec50ea5b36f1,Nov 12 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+603f804b4b54bc781329c40f,Sep 06 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60405941ef4356c89a23311d,Oct 20 '21,Pro8 v1 - Monthly,15,bugs
+604103eb0af1661970661da2,Jul 22 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+60419f73d711f6406d586b6e,Jul 22 '21,Buffer Analyze - Pro Plan 8 Social Channels Annual,336,extenuating-circumstances
+60419f73d711f6406d586b6e,Jul 22 '21,Premium Business v1 - Yearly,663,extenuating-circumstances
+604273c29d5b996f9ba56a2b,Sep 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60434a8dea30806187f4f770,Aug 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6043ecaf0af166035366220d,Sep 28 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+6043ecf9483b4d571f234936,Jul 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6043eff325c4f4b78b497241,Aug 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6044b44c1ed6566a185b4169,Sep 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+604523ea7f02454c86d81e97,Aug 25 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,bugs
+6045d954483b4d1b15234b65,Dec 28 '21,Pro8 v1 - Monthly,15,too-expensive
+6045d954483b4d1b15234b65,Jul 27 '21,Premium Business v1 - Monthly,65,too-expensive
+6045f5ee87ed6552165ba885,Oct 24 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60478291d1080a2d0d649e8a,Aug 14 '21,Pro8 v1 - Monthly,15,too-expensive
+60479b3a24ff744b2347fe0a,Oct 14 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+6047aca7beeffdbf69ff41aa,Jul 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+6047e1b240a6733c0af4b028,Aug 25 '21,Pro8 v1 - Monthly,15,others
+6047e1b240a6733c0af4b028,Jul 29 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+604a9c8e415bcb2d1b1e8a3b,Aug 18 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+604a9c8e415bcb2d1b1e8a3b,Sep 18 '21,Premium Business v1 - Monthly,65,not-using-anymore
+604aad3b3b0e8e3da4f86822,Aug 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+604ae01ed8e67cefcce77028,Jul 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+604bcf259566414905b68466,Aug 22 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+604f537b65f17b8bda196fbd,Aug 18 '21,Pro8 v1 - Monthly,15,too-expensive
+604fa0a94b7a19325b606090,Dec 15 '21,Premium Business v1 - Monthly,65,bugs
+604fb5e2baf91022b6bfc91b,Jul 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60501cd9945508ee602e91d5,Dec 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60506c9790df18a90c496480,Aug 21 '21,Pro8 v1 - Monthly,15,others
+6050741f908a235e17efe434,Jul 21 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+6050ad1b579e4e64a637b48a,Sep 30 '21,Pro8 v1 - Monthly,15,too-expensive
+605112e6e9997320dbcce733,Sep 13 '21,Pro8 v1 - Monthly,15,others
+6051fe96b17fed6b3c2f775e,Nov 21 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+6051fe96b17fed6b3c2f775e,Oct 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+605488c59d6f3481d0479e5c,Sep 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60549ab7a3d11f98b5acc094,Oct 18 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+60549ff5168cf224725fe47d,Sep 02 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+60550aa384cd55f5bc37119a,Aug 19 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+60550c2360bbe45c7107bd3d,Dec 12 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60566af484cd557f47371370,Oct 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6057abdd54a99566a6af5c2b,Jul 07 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+6057abdd54a99566a6af5c2b,Oct 12 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+60589bdb049df983ba37a4ff,Oct 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6058c3a90e702e329994b88d,Aug 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60592087bd49ed89eebe8ad6,Jul 22 '21,publish_premium_m_35_201910,35,extenuating-circumstances
+60592866f6d16241d393ac05,Sep 12 '21,Pro8 v1 - Monthly,15,too-expensive
+6059336d445670541a17447f,Aug 06 '21,Premium Business v1 - Monthly,65,not-using-anymore
+6059efaaa5b1df2f9542ba2d,Nov 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+605abfc32da53923cc423bae,Aug 07 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+605ad3f9193ad0034601687a,Aug 15 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+605cb22fc9cfccde4de1f16f,Nov 25 '21,Pro8 v1 - Monthly,15,missing-features
+605cb22fc9cfccde4de1f16f,Oct 12 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,missing-features
+605df18b47919cde49ebc05e,Sep 09 '21,Pro8 v1 - Monthly,15,missing-features
+605e1fa3763ed427dea188c3,Aug 26 '21,Premium Business v1 - Monthly,65,not-using-anymore
+605f2f7bcb2b13cae7d942b0,Jul 25 '21,Pro8 v1 - Monthly,15,others
+605f67a95611c221e4c47465,Oct 12 '21,Pro8 v1 - Monthly,15,others
+605fb2020a57c8e97d703013,Aug 01 '21,Pro8 v1 - Monthly,15,others
+605fc80a9a53ad70ee8831d4,Sep 11 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+60609bd2ac1abefc92339576,Aug 13 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6061e8c73ebdf9f8e232a057,Aug 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+606208fd714eb927a7958750,Dec 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6062b0143cdf2919a3a6f5d3,Jul 27 '21,Pro8 v1 - Monthly,15,bugs
+60638676c1cfed6f5458b5d7,Oct 30 '21,Small Business v2 - Monthly,99,bugs
+606460c6d799f44fbf434e4d,Nov 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+606460efcad600a8814b9a1e,Oct 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6064dbadef5c81131c58e5e4,Jul 08 '21,Pro8 v1 - Yearly,144,not-using-anymore
+6064dbadef5c81131c58e5e4,Jul 08 '21,Small Business v2 - Yearly,">= 1,000",not-using-anymore
+6064e559f382e123b9fce5ce,Aug 19 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6064ee80cb959081249c5885,Sep 15 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+606560be30e62f690bbf65ad,Aug 27 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60659bcf49d0f47b76802fc8,Aug 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6065bb29d1801c05266fed25,Aug 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6065c130b785c636b35bc740,Nov 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+606608684c0845109d1fed86,Nov 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6066890a4c084554f31feee0,Dec 16 '21,Premium Business v1 - Monthly,65,not-using-anymore
+606738074a440bd5703720f4,Sep 03 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+606af48b00ffcea25f7b4cc4,Aug 19 '21,Pro8 v1 - Monthly,15,too-expensive
+606af48b00ffcea25f7b4cc4,Sep 01 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+606b55a7acd5bf808f08824c,Aug 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+606bad91ef02c9b62f83b4df,Nov 21 '21,Pro8 v1 - Monthly,15,others
+606c593920f4980584a5bdd6,Sep 15 '21,Pro8 v1 - Monthly,15,too-expensive
+606c6a8425ccb89d82d7b6d9,Oct 17 '21,Pro8 v1 - Monthly,15,too-expensive
+606c6a8425ccb89d82d7b6d9,Sep 21 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+606ceb3b74aba6fe66f880db,Jul 26 '21,Pro8 v1 - Monthly,15,others
+606d0e6574aba69fa3f88132,Sep 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+606d60ae3583be5c2421230a,Aug 21 '21,Small Business v2 - Monthly,99,too-expensive
+606dbb5f30eb1a06447e4c8d,Nov 17 '21,Small Business v2 - Monthly,99,not-using-anymore
+606e1b31abec98ff38ffcea8,Oct 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+606ec9a435c4dd4604f8f1bf,Aug 22 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+606f38ff9ce9ea4ab9399999,Jul 08 '21,Pro8 v1 - Monthly,15,bugs
+606f6e06bce78b44d9a76f33,Dec 25 '21,Premium Business v1 - Monthly,65,too-expensive
+606fa4b39ce9eaba2e399b13,Sep 10 '21,Pro8 v1 - Monthly,15,too-expensive
+6070ab7e2e201e782d943590,Oct 09 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6070c4837901306797b6608f,Sep 17 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60717bb969aeb2d94fffb517,Oct 23 '21,Pro8 v1 - Monthly,15,bugs
+6071aee9632c9d31bff02607,Nov 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60720b8fe37ae6df9e73ad23,Sep 25 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60725ef8b952068698d63c3f,Aug 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6072f0ad57133b4d002f9f9b,Nov 11 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60731a7a69aeb22cd2ffb790,Aug 16 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60731a7a69aeb22cd2ffb790,Oct 07 '21,Essentials + Team Pack,120,not-using-anymore
+60737a61d33987c3bab25653,Aug 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60737a61d33987c3bab25653,Oct 06 '21,Essentials + Team Pack,240,not-using-anymore
+60739ab77ae59378d5a80fad,Sep 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6074352f6ff78b87a234f6e5,Jul 07 '21,Premium Business v1 - Monthly,65,bugs
+60745fa1a3266537b8616587,Sep 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6074b78cd8ecb8bf9a9dc9ba,Oct 03 '21,Pro8 v1 - Monthly,15,missing-features
+6074b78cd8ecb8bf9a9dc9ba,Sep 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+6074b95a23ecdf22b529139f,Jul 27 '21,Pro8 v1 - Monthly,15,others
+6075f07e8932777a69a11715,Oct 04 '21,Pro8 v1 - Monthly,15,others
+6075f07e8932777a69a11715,Sep 03 '21,Pro8 v1 - Monthly,15,others
+607612710700db216e160900,Nov 13 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+60775fef4ed4819b6f103405,Nov 28 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+6078c6d821b3d03296367cc6,Jul 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+607912bb0c89218243f70549,Sep 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60793c5db98293394c170572,Sep 03 '21,Pro8 v1 - Monthly,15,too-expensive
+60799d9b91b6bd2ef69081c6,Oct 30 '21,Pro8 v1 - Monthly,15,not-using-anymore
+607b43f3f51851660321682c,Aug 16 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+607b43f3f51851660321682c,Jul 11 '21,Pro8 v1 - Monthly,15,too-expensive
+607d2eb9f56dd33de5b4630e,Aug 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+607d3bd4c98ef96380d84753,Dec 23 '21,Pro8 v1 - Monthly,15,others
+607dd7c83c9e5e819d16babd,Nov 08 '21,Pro8 v1 - Monthly,15,bugs
+607dd7c83c9e5e819d16babd,Nov 26 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,bugs
+607ec22847592b911c5c7aed,Aug 20 '21,Pro8 v1 - Monthly,15,missing-features
+607ef0668ab848689e082a66,Nov 05 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+607f20c6ec156d8018147879,Sep 14 '21,Pro8 v1 - Yearly,144,missing-features
+607f2950b88f30091397eb49,Sep 05 '21,Pro8 v1 - Monthly,15,bugs
+60818860a0e489c9cf84c230,Sep 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+608293d5dd4e4f11664246d0,Oct 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6082c76cdd26e07342ed36a8,Sep 23 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+608355b5682fc27c1546b134,Aug 19 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+608355b5682fc27c1546b134,Oct 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6084dab6b5115c2490ec1b2c,Aug 01 '21,Pro8 v1 - Monthly,15,too-expensive
+60867f345850992c23eefa98,Jul 31 '21,Small Business v2 - Monthly,99,too-expensive
+6086fcdc858c930129b8cbd3,Sep 14 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+6087277beda6c42d7f4bd268,Aug 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60877cc8a678085f1264e7c7,Jul 14 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+60884f6e0a10d60d635327f1,Sep 10 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60889c63980f18843b474d8e,Nov 01 '21,Premium Business v1 - Monthly,65,too-expensive
+608976a85cb7fbb70c068de4,Dec 05 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+608976eb6cd67a4d1e7065ec,Jul 28 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60899e7f560a90efbcf521cb,Jul 30 '21,Pro8 v1 - Monthly,15,others
+6089f089e5db773d91396ce5,Oct 17 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+608aef9f9f687d05f3935b3c,Oct 25 '21,Premium Business v1 - Monthly,65,too-expensive
+608bb0881707edee5e25cdf0,Sep 09 '21,Pro8 v1 - Monthly,15,others
+608c13dcd0f3129407f6366e,Nov 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+608c477fdd43a29266a11833,Sep 11 '21,Pro8 v1 - Monthly,15,bugs
+608c4bcb4ca8092b0fb901fc,Nov 13 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+608c507fa79d61f03b7abff9,Jul 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+608faec54ca8095aaeb90760,Aug 03 '21,Pro8 v1 - Monthly,15,missing-features
+608fbc629a9cb1c88f7414a2,Jul 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+609016da806b1d1f92b02a7e,Dec 02 '21,Pro8 v1 - Monthly,15,others
+60903fa5245be302d5c0c6cb,Jul 25 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6090507e513f16310ad86191,Jul 13 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+6090507e513f16310ad86191,Jul 13 '21,Premium Business v1 - Yearly,663,not-using-anymore
+60915fdd97353ba189b372b1,Nov 19 '21,Pro8 v1 - Monthly,15,bugs
+6091709561a6700977c7ccec,Aug 27 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+6091797b6bb04decde08f90b,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6091dc7b0007789a3f86ad90,Sep 27 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+609255afd615b9b1e964eeae,Aug 27 '21,Medium Business v2 - Monthly,199,missing-features
+6093aa42b7d6f638ec83d960,Oct 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
+6093d497106a2fdab1fa6484,Oct 17 '21,Pro8 v1 - Monthly,15,too-expensive
+60943f0043665b351068ebe2,Sep 04 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+60946042531e802ebe621e48,Oct 07 '21,Pro8 v1 - Monthly,15,others
+60946042531e802ebe621e48,Oct 20 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60958b3b78b182827f6c5abd,Aug 22 '21,Pro8 v1 - Monthly,15,missing-features
+6095c3071260936c9f4899d8,Jul 02 '21,Pro8 v1 - Monthly,15,bugs
+6098862c4a66ba5feaac6854,Aug 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,bugs
+6098862c4a66ba5feaac6854,Sep 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,bugs
+60990d9c22eb9672ba5d0640,Dec 11 '21,Small Business v2 - Monthly,99,extenuating-circumstances
+60991a2fd7553a697f838d19,Oct 24 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60991cf73f1f979d10a33585,Nov 25 '21,Premium Business v1 - Monthly,65,too-expensive
+60996be38f0295fc0a119908,Aug 26 '21,Pro8 v1 - Monthly,15,missing-features
+609a46c38f0295d90c119a91,Oct 11 '21,publish_premium_m_35_201910,35,extenuating-circumstances
+609a7498acdb922adedd4c71,Aug 22 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+609ab0a305e9e2ea1aeee89a,Aug 12 '21,Pro8 v1 - Monthly,15,too-expensive
+609ab0a305e9e2ea1aeee89a,Jul 25 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+609ac027855330700d7c287c,Aug 11 '21,Premium Business v1 - Monthly,65,missing-features
+609ae7cc8439ef16492984d1,Jul 04 '21,publish_premium_m_35_201910,35,not-using-anymore
+609af0b320fddae7d782b2af,Jul 12 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+609b163f95754c910d580dde,Nov 07 '21,Premium Business v1 - Monthly,65,not-using-anymore
+609bb894dc2a5cb8cfa3988c,Nov 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+609c393d18b5aae73882188e,Sep 26 '21,Pro8 v1 - Monthly,15,others
+609c85b521483b1b9d5e81b4,Sep 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+609d1fa750b3f09c3ba476bd,Nov 06 '21,Pro8 v1 - Monthly,15,not-using-anymore
+609d9b3cd459048fcdf07430,Jul 02 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+609de27338cebc5fc4b31ab1,Aug 10 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+609de2dfa32712df091c5979,Aug 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+609e2de1482690b408f90856,Oct 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+609e78b06ae07180286e64f5,Nov 07 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+609e78b06ae07180286e64f5,Sep 28 '21,Small Business v2 - Monthly,99,not-using-anymore
+609eb90cfdb7896d5a10480b,Sep 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60a15422740ce393c575a920,Dec 11 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60a18cb69378cd6b2130e94e,Aug 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60a1ae45740ce32cb375a9a8,Oct 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60a2570652ada95113489728,Oct 07 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60a268a3694b58d983de375b,Dec 18 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+60a268a3694b58d983de375b,Jul 31 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+60a26dad694b580440de3765,Jul 31 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+60a28a518964d2846f3c4785,Aug 17 '21,Pro8 v1 - Monthly,15,missing-features
+60a2f882108241b990189552,Jul 21 '21,Pro8 v1 - Monthly,15,others
+60a2fd4f553b7c071f6c70e3,Sep 02 '21,Buffer Analyze - Full Price 10 Social Channels,50,bugs
+60a2fd4f553b7c071f6c70e3,Sep 02 '21,Pro8 v1 - Monthly,15,bugs
+60a36ca908caa10ed6c91378,Nov 01 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60a3c77a8964d2398b3c4a2a,Sep 18 '21,Pro8 v1 - Monthly,15,others
+60a3da35e8f6411ec4202db0,Aug 18 '21,Premium Business v1 - Monthly,65,others
+60a4451552fa96c47dbad390,Dec 23 '21,Pro8 v1 - Monthly,15,too-expensive
+60a4d1b3c642ae95466d8b9e,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60a50f438a348580a9e490bc,Nov 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60a587c194b628e1b1a0d85d,Dec 02 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+60a587c194b628e1b1a0d85d,Dec 02 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60a69c818a1b67bcd7a178d6,Jul 15 '21,Pro8 v1 - Monthly,15,others
+60a6a54f16392f41c9945c66,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60a6be7683eb99bfd93ae2ec,Oct 22 '21,Pro8 v1 - Monthly,15,too-expensive
+60a6f76fa50266b7bd5e6d44,Aug 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60a6fa71f4a1f8842953e442,Aug 28 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60a6fa71f4a1f8842953e442,Jul 25 '21,Small Business v2 - Monthly,99,not-using-anymore
+60a6fa71f4a1f8842953e442,Sep 29 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60a82716353dd19b398b7c83,Oct 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60a9ae03dd7d4dc3564c8081,Aug 23 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60ab5ff316392f7b63946280,Dec 01 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60acc9c6a1fe3dd17d1d20b9,Dec 09 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60acd86aef2e484f48b5dd85,Oct 25 '21,Pro8 v1 - Monthly,15,others
+60ae21a9230c8a7e8beab61b,Aug 05 '21,Premium Business v1 - Monthly,65,too-expensive
+60ae2325a319dc1ae909dda9,Sep 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60ae9656a991eb132dbd5f04,Sep 26 '21,Pro8 v1 - Monthly,15,others
+60afc13d3530e54ace8df6e0,Jul 09 '21,Pro8 v1 - Yearly,144,missing-features
+60afc13d3530e54ace8df6e0,Sep 25 '21,Pro8 v1 - Monthly,15,missing-features
+60b1d1c198dce026b9a906e9,Oct 12 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60b252532885fec52724ce1e,Aug 12 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60b29228cb9eb66c8e800d4f,Jul 11 '21,Pro8 v1 - Monthly,15,missing-features
+60b29228cb9eb66c8e800d4f,Jul 12 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+60b36d46615b4121dfe884da,Aug 08 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60b36d46615b4121dfe884da,Aug 22 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+60b3fee466a8f4c8d2ce6032,Sep 15 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60b3fee466a8f4c8d2ce6032,Sep 15 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60b4c90c2885fe5f0724d0e8,Jul 09 '21,Premium Business v1 - Monthly,65,missing-features
+60b4d181eb3b04f0b4af92d1,Oct 16 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60b544492763e7c5d678791f,Oct 08 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60b67e5c04d1b72adb6afacd,Aug 13 '21,Pro8 v1 - Monthly,15,missing-features
+60b680b29e1d05ce7e76a4f2,Nov 04 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60b72a0fa90465c6a43e10f6,Nov 05 '21,Pro8 v1 - Monthly,15,others
+60b77c45ff9833b36a38d3a9,Nov 02 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60b78a038abc382a2753f980,Aug 02 '21,Pro8 v1 - Monthly,15,missing-features
+60b78f87af8a4171965face3,Oct 15 '21,Pro8 v1 - Monthly,15,bugs
+60b7ab2ebbe50e48d1ec9e37,Aug 15 '21,Pro8 v1 - Monthly,15,others
+60b7ae86d4816a13ec5dd14b,Oct 06 '21,Pro8 v1 - Monthly,15,missing-features
+60b7d388437ff67d07149b72,Jul 02 '21,Small Business v2 - Monthly,99,others
+60b7d388437ff67d07149b72,Oct 05 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60b8cbac437ff63028149d08,Aug 03 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60b8e1a0431ac4004a24e64a,Sep 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60b98aabf39aeb55099fe6aa,Nov 06 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60b98c635e0338f575729aea,Sep 09 '21,Pro8 v1 - Monthly,15,too-expensive
+60b9be943ae2f712ed50d5e2,Oct 06 '21,Premium Business v1 - Monthly,65,others
+60b9be943ae2f712ed50d5e2,Sep 23 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60ba39455e033800b7729c21,Aug 24 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60ba39455e033800b7729c21,Dec 04 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+60ba935e5c1251d02e3bd675,Aug 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60bbcd2497f2b926dced1984,Jul 20 '21,Pro8 v1 - Monthly,15,bugs
+60bcdf3b3ae2f7d59250d9f6,Sep 17 '21,Pro8 v1 - Monthly,15,too-expensive
+60bd1c0e5e03381f6a729f65,Nov 08 '21,Pro8 v1 - Monthly,15,too-expensive
+60bdd2e0b97a625f0ee14c45,Dec 16 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+60bdea2c97f2b9f96bed1c2d,Oct 23 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60be42c8436e1954bf3cc78a,Sep 02 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60be4aca540ac3adb0847d72,Jul 22 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+60be4aca540ac3adb0847d72,Sep 28 '21,Pro8 v1 - Monthly,15,too-expensive
+60be9657245e5743e261162b,Oct 22 '21,Small Business v2 - Monthly,99,not-using-anymore
+60bf837dd3b578396dd2e2e1,Nov 08 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60bf9020d3b578275bd2e301,Aug 28 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+60bfd1c6b1eb0291cb65e24c,Dec 29 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+60c07cee9e2649d3ab98e0fd,Nov 13 '21,Medium Business v2 - Monthly,199,not-using-anymore
+60c0c8b4c456de5d1b2696dd,Sep 10 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60c0ef0719894a81cf3c0ffb,Sep 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60c126d085c7d10acf070ed0,Aug 13 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60c126d085c7d10acf070ed0,Oct 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60c128fb48056c717355d609,Sep 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60c13a0334c91157cd5bbfd6,Sep 22 '21,Premium Business v1 - Monthly,65,bugs
+60c257449f44e6521205c205,Oct 11 '21,Premium Business v1 - Monthly,65,extenuating-circumstances
+60c38f500b732d1a90985aa5,Jul 12 '21,Premium Business v1 - Monthly,65,too-expensive
+60c38f500b732d1a90985aa5,Nov 12 '21,Premium Business v1 - Monthly,65,too-expensive
+60c3adee0b732d03c2985aed,Sep 18 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60c3f04c6a2ca26121af0704,Sep 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60c416392168ff35cb5683d5,Aug 12 '21,Premium Business v1 - Monthly,65,too-expensive
+60c51aa3e061a9f0aa5e57d2,Aug 28 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60c538e8fc4a0526f3e93bb9,Sep 03 '21,Pro8 v1 - Monthly,15,others
+60c5b5aa86f908d7b204e42e,Jul 28 '21,Pro8 v1 - Monthly,15,bugs
+60c63083ebad3526fccadc8a,Aug 29 '21,Premium Business v1 - Monthly,65,bugs
+60c6761de061a935665e5926,Aug 08 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60c709c06b60769776a888b3,Sep 01 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+60c747384560ca829f010a53,Oct 07 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+60c7db0e95cb2f20bb108398,Aug 02 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+60c820dfc7106fdfd5f028df,Nov 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60c8b6379c2d9242a2d746b5,Sep 15 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60c8dd7bba74fa12d40a9866,Oct 08 '21,Pro8 v1 - Monthly,15,others
+60cb36f0753d147502a97d46,Oct 28 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60cb53b219068424510bbe9d,Aug 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60cb65a7e4099e0a6d76bb30,Aug 21 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60cb86f2272f53544ec51753,Aug 01 '21,Pro8 v1 - Monthly,15,too-expensive
+60cbcd76c91c7eb4ccaa4506,Dec 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60cbfc7a716b27779224078e,Dec 14 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60cc3d8297798acd64520469,Oct 07 '21,Pro8 v1 - Monthly,15,bugs
+60ce234a76e86848c8f86934,Aug 24 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60d0302e7b3c7abad6c41612,Sep 15 '21,Pro8 v1 - Monthly,15,too-expensive
+60d0364a5900bd2a7665cba6,Oct 03 '21,Pro8 v1 - Monthly,15,others
+60d0a35e7b3c7aca53c41731,Oct 02 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60d0b6ca1906843ff80bc666,Dec 20 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,too-expensive
+60d0c7ae93b5da564d3ac976,Aug 26 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,missing-features
+60d0e19347b9fbb6fa1869ca,Jul 05 '21,Pro8 v1 - Monthly,15,others
+60d1c71557ff5e17179fdf64,Sep 27 '21,publish_premium_m_35_201910,35,too-expensive
+60d1e17bb89ed35b580482f4,Nov 06 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+60d1eb1f93f7e65d5287a8ed,Oct 02 '21,Pro8 v1 - Monthly,15,others
+60d24c63cafaafcba9ae2fe0,Jul 22 '21,Pro8 v1 - Monthly,15,others
+60d2903e98c73358676899e7,Sep 07 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60d31d94163c846c6500f7e5,Sep 23 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60d4155e64f6ba8cfb5acc79,Jul 24 '21,Pro8 v1 - Monthly,15,missing-features
+60d4d4c1d0d63c6954e594f1,Aug 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60d527ba4424cb62a7db6a7f,Nov 25 '21,publish_premium_m_35_201910,35,others
+60d5709c582f5bf3c5dc3409,Sep 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60d5b4df96033eb0d62cb241,Dec 09 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60d99b3c58f11e24c0d9b213,Sep 11 '21,Pro8 v1 - Monthly,15,missing-features
+60d9dd3e67437ab62c906d05,Sep 13 '21,Pro8 v1 - Monthly,15,others
+60d9e1ed9dcfa942ba96ce5f,Aug 12 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60da06e64ed0553597e874d6,Jul 22 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+60dad896cf65ae0cc5af2ca8,Oct 13 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60db80a0fc17a1f1ca87fa29,Jul 25 '21,Pro8 v1 - Yearly,144,others
+60db8dbb1287176400d13f03,Aug 29 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60dbfd92ff8b4be333d6180a,Aug 06 '21,Pro8 v1 - Monthly,15,too-expensive
+60dc398542bc63735998fcee,Sep 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60dc8b2b88a0ef457df5f790,Aug 19 '21,Pro8 v1 - Monthly,15,too-expensive
+60dd1d590f21116e7620459a,Aug 31 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60dd9ff6d8cd461acaa2acab,Aug 05 '21,Pro8 v1 - Monthly,15,others
+60de0bf535c59b52f343c495,Dec 08 '21,Buffer Analyze - Full Price 10 Social Channels,50,missing-features
+60debca6f0883079faffff2b,Sep 29 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60df19e8fff88d7c83dec553,Oct 16 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60dfdb6135c59b06d843c7fb,Aug 10 '21,Pro8 v1 - Monthly,15,too-expensive
+60dffa33d8ff6e5d471f9f06,Aug 05 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60dffb8e35c59b2f3543c815,Aug 05 '21,Buffer Analyze - Full Price 10 Social Channels Annual,480,bugs
+60e09b0e9425c032fda5e4ad,Aug 03 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60e09b0e9425c032fda5e4ad,Aug 17 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60e2d8e7550a277602266a03,Aug 19 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60e2d8e7550a277602266a03,Sep 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60e2fbc78c388c0ddea67324,Aug 12 '21,Pro8 v1 - Monthly,15,too-expensive
+60e2fbc78c388c0ddea67324,Sep 24 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+60e32752935b30237e4424eb,Sep 19 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60e35254769e5b0a2e3f6d49,Aug 02 '21,Buffer Analyze - Full Price 10 Social Channels,50,bugs
+60e3af774dc287eef812cefb,Aug 06 '21,Premium Business v1 - Monthly,65,too-expensive
+60e508954722fd3772ebff03,Jul 25 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60e508954722fd3772ebff03,Nov 25 '21,Premium Business v1 - Monthly,65,others
+60e514a7919dcc52132a71bc,Sep 09 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60e606b3ac30eff12ece6cec,Sep 21 '21,Buffer Analyze - Full Price 10 Social Channels,50,too-expensive
+60e61c55226c6193cca2284c,Aug 09 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60e61c55226c6193cca2284c,Sep 26 '21,Pro8 v1 - Monthly,15,others
+60e6901a1ec793a2ac1bf4b4,Jul 14 '21,Pro8 v1 - Yearly,144,others
+60e6901a1ec793a2ac1bf4b4,Jul 17 '21,Pro8 v1 - Monthly,15,others
+60e718af5893715aa9420fab,Oct 03 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,extenuating-circumstances
+60e73425eb60e4cfb8461635,Sep 08 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60e7c9a7c95fd478d93a318b,Aug 23 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+60e7ff13bffdc9c0f2dee929,Jul 09 '21,Premium Business v1 - Yearly,663,not-using-anymore
+60e7ff13bffdc9c0f2dee929,Jul 26 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60e7ff13bffdc9c0f2dee929,Sep 05 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60ebff2a1589cad0eeb17a28,Aug 29 '21,Small Business v2 - Monthly,99,bugs
+60ec0d3374a2a142aa3d1254,Sep 26 '21,Small Business v2 - Monthly,99,too-expensive
+60ec11601b79ae1c09828372,Oct 22 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60ec13587468c0b53ab34e79,Aug 26 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60ec72381f0bd00a86cc860d,Dec 26 '21,Pro8 v1 - Monthly,15,others
+60ecad29a141e2476ede9266,Nov 12 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60ed0da1f303ac2c412e37bc,Sep 03 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60eed8d6603408a5d62ff59e,Nov 13 '21,Pro8 v1 - Monthly,15,missing-features
+60eedef1c351e50614702f3b,Oct 14 '21,publish_premium_m_35_201910,35,not-using-anymore
+60ef116ae1429e6fe100f746,Sep 22 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60ef3aa965220e926df1dfee,Nov 28 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+60ef3aa965220e926df1dfee,Oct 14 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60f01d26d975ee0bb083bb98,Sep 16 '21,Pro8 v1 - Monthly,15,too-expensive
+60f04a99f42b9e9cf49e9d22,Jul 15 '21,Pro8 v1 - Monthly,15,others
+60f3a0dad886c751d071e7df,Dec 27 '21,Pro8 v1 - Monthly,15,too-expensive
+60f59be3b8993461c27bfa1a,Aug 19 '21,Pro8 v1 - Monthly,15,missing-features
+60f5bb9c1f268d4468864c99,Nov 23 '21,Pro8 v1 - Monthly,15,too-expensive
+60f72e9691c7e5b9650d719c,Sep 20 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60f8a0de2bc3b85345630cf4,Aug 26 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,missing-features
+60f9b6be3fdc56e47714208d,Oct 03 '21,Pro8 v1 - Monthly,15,missing-features
+60f9c931e2d4c5d406b0241e,Oct 11 '21,Buffer Analyze - Full Price 10 Social Channels,50,extenuating-circumstances
+60fae04e98edd73d892e23d7,Dec 18 '21,Premium Business v1 - Monthly,65,not-using-anymore
+60fafc6c899857fb1a4b81af,Dec 30 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+60fafc6c899857fb1a4b81af,Oct 23 '21,Pro8 v1 - Monthly,15,others
+60fbbe4caa26cc39dc7211c5,Jul 26 '21,Pro8 v1 - Monthly,15,not-using-anymore
+60fc53afe7e40a52910a5226,Aug 24 '21,Pro8 v1 - Monthly,15,too-expensive
+60fc605944fe4c4ec373ea97,Aug 07 '21,Small Business v2 - Monthly,99,others
+60fc605944fe4c4ec373ea97,Sep 30 '21,Essentials + Team Pack,24,others
+60fc6527aae8c17116e35c9b,Aug 27 '21,Pro8 v1 - Monthly,15,others
+60fd650be2d4c58107b0292a,Aug 26 '21,Pro8 v1 - Monthly,15,extenuating-circumstances
+60fdc689c40a5cb949a5037f,Sep 03 '21,Pro8 v1 - Monthly,15,bugs
+61003bf76e2832492ce8a94b,Aug 11 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+61003bf76e2832492ce8a94b,Aug 27 '21,Pro8 v1 - Monthly,15,not-using-anymore
+61014a32a24625614a5d1482,Aug 28 '21,publish_premium_m_35_201910,35,not-using-anymore
+610168b3064c50e1b6d55a86,Sep 01 '21,Pro8 v1 - Yearly,144,too-expensive
+6101b926317e7557d602cd14,Sep 29 '21,Pro8 v1 - Monthly,15,others
+61028f7394fdad35ded937b2,Dec 17 '21,Pro8 v1 - Monthly,15,not-using-anymore
+61028f7394fdad35ded937b2,Nov 22 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,not-using-anymore
+61028f7394fdad35ded937b2,Oct 22 '21,Buffer Analyze - Full Price 10 Social Channels,50,not-using-anymore
+6102d473e73dd76d62244677,Nov 13 '21,Pro8 v1 - Monthly,15,others
+6103cf6785f8c74a048ae00c,Sep 30 '21,Premium Business v1 - Monthly,65,not-using-anymore
+61042f5e62f362797179eaea,Aug 30 '21,publish_premium_m_35_201910,35,too-expensive
+610439a52eb5df4c5e71ae48,Nov 13 '21,Buffer Analyze - Pro Plan 8 Social Channels,35,others
+61045afef4746a7489dc7a53,Aug 16 '21,Buffer Analyze - Full Price 10 Social Channels,50,others
+6104d39a40c7fc154e57ea7c,Nov 29 '21,Premium Business v1 - Monthly,65,not-using-anymore
+6106ee49113c4e717ac9b9b3,Sep 16 '21,Pro8 v1 - Monthly,15,not-using-anymore
