@@ -29,6 +29,7 @@ st.markdown('''
     3. [Data Cleaning](#3-data-cleaning)
     4. [Key Metrics]( #4-key-metrics)
     5. [Conclusion]( #5-conclusion)
+    6. [Suggestions]( #6-suggestions)
     &nbsp;
     \
     &nbsp;
