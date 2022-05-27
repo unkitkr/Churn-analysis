@@ -37,11 +37,11 @@ st.markdown('''
     &nbsp;
 
     ##### __1.__ __Data parameters__
-    1. <span class = "higlighted">__Customer ID__</span> : The unique ID of the customer used across the internal buffer databases. This can help us understanding if the user was churned two or more times which indicates that those users gave Buffer two (or more) chances. This is critical since it means buffer has built trust among customers which gets them back to the platform but due to one (or more) reasons they churned.
-    2. <span class = "higlighted">__Churn Date__</span> : The date when the customer churned. This parameter is very helpful to analyse several components of churn with respect to time. But since we are working with 6 month time frame, we won'use it much.
-    3. <span class = "higlighted">__Plan Name__</span> : The name of the plan from which the customer churned out. This is particularly helpful to analyse which segment of users were churning and thereby helpful for speculating the root cause of the churn.
-    4. <span class = "higlighted">__Amount__</span> : The amount of the plan which was churned by a customer. This metric can be used to calculate the net churn (financially) but deriving anything meaningful in terms of the reason of churn can be extremely difficult.
-    5. <span class = "higlighted">__Churn Reason__</span> : User selected reason for churn. This is a key metric to understand user behaviour and particularly helpful to establish framework to analyse churn. However the granularity of the reason is low hence, there could be an explicit need to take some assumptions.
+    1. <span class = "higlighted">__Customer ID__</span>: The unique ID of the customer used across the internal buffer databases. This can help us understand if the user was churned two or more times which indicates that those users gave Buffer two (or more) chances. This is critical since it means buffer has built trust among customers which gets them back to the platform but due to one (or more) reasons they churned.
+    2. <span class = "higlighted">__Churn Date__</span>: The date when the customer churned. This parameter is very helpful to analyse several components of churn concerning time. But since we are working with 6-months time frame, we won't use it much.
+    3. <span class = "higlighted">__Plan Name__</span>: The name of the plan from which the customer churned out. This is particularly helpful to analyse which segment of users were churning and thereby helpful for speculating the root cause of the churn.
+    4. <span class = "higlighted">__Amount__</span>: The amount of the plan which was churned by a customer. This metric can be used to calculate the net churn (financially) but deriving anything meaningful in terms of the reason for churn can be extremely difficult.
+    5. <span class = "higlighted">__Churn Reason__</span>: User selected reason for churn. This is a key metric for understanding user behaviour and is particularly helpful to establish a framework to analyse churn. However the granularity of the reason is low hence, there could be an explicit need to take some assumptions.
 ''', unsafe_allow_html = True)
 
 st.markdown('''
